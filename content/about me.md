@@ -9,7 +9,7 @@ aliases:
 
 - be me
 - 13 m
-- don’t fit in at school. Ok at math and science but not much else. Not ood at sports
+- don’t fit in at school. Ok at math and science but not much else. Not good at sports
 - pick up guitar. Both parents are both musicians. It comes naturally
 - 2008 financial crash happens
 - parents do everything they can to convince me not to be a musician as the American dream crumbles around them
