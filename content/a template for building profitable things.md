@@ -2,6 +2,9 @@
 tags:
   - list
   - personal
+  - tech
+  - creation
+  - business
 ---
 ## finding community
 - Seek out people and communities you look up to

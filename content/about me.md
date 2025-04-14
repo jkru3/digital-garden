@@ -2,6 +2,7 @@
 tags:
   - essay
   - personal
+  - humans
 aliases:
   - Joey
 ---

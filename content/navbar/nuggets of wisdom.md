@@ -3,16 +3,39 @@ tags:
   - navbar
   - personal
 ---
-this is a collection of wise words I have heard or read, or quotes I've thought of myself. I've categorized quotes by what they pertain to to make this page easier to maintain. Authors are not always credited, because a lot of things are just a subconscious paraphrase of other things I've heard. If it isn't attributed to anyone, I *may* have put the words together, but I don't claim it as my own
+this is a collection of wise words i have heard or read, or quotes i've thought of myself. I've categorized quotes by what they pertain to to make this page easier to maintain. Authors are not always credited, because a lot of things are just a subconscious paraphrase of other things i've heard. If it isn't attributed to anyone, i *may* have put the words together, but i don't claim it as my own
 
 more organized collections of personal wisdom are under
 - [[humanity++]]
 - [[life lessons]]
 - [[parenting]]
-# surviving
-## driving
-- Every moment you are driving you are having a conversation with the outside world. Being a good driver is about your ability to keep that conversation going
-- driving angry is just as dangerous as driving drunk or tired
+# #creation
+## learning
+- viewing yourself as too old to learn something is a toxic paradigm
+- the more you learn, the more you will realize how much you’ve missed out on from ignorance
+- why read boring books about magic when you can read great books that are magic?
+## writing
+- it’s unwise to write from the perspective of how things should be, and rather, write from the perspective of how things feel. This allows you to build upon the truth within you that is always developing. Readers can better connect with the characters and deduce their own truths from the stories you weave in their place
+- you can’t write about anything good until you understand your own reaction to what you are writing about
+- being a good story teller is all about knowing what information is too broad, too personal, or not clear
+## technology
+- complexity is inversely proportional to number of lines of code
+## the creative process
+- a poet is always trying to describe what cannot be said — Alan Watts
+- no piece of art is ever done, it’s just abandoned — John Tyler (a friend)
+- be the fan that isn't getting quite what you are looking for
+- don’t try to create and analyze at the same time. They are different processes
+- maintain a distinct private and public body of work
+- over-planning sucks the life out of the creative process
+## creative motivation
+- God sent me on earth. God sent me to do something, and nobody can stop me. If God wants to stop me, then I stop. Man never can — Bob Marley
+- the future belongs to those who believe in the beauty of their dreams — Eleanor Roosevelt
+- the day you plant the seed is not the day you eat the fruit — Paulo Coelho
+- You might know what happens next but you don’t know what happens after that and that’s ok, because you’re a grown up, and you will figure it out — Niel Gaiman
+- You don't have to force yourself to not sleep in. Just always think of sleeping in from the context if the things that are important
+- We give up greatness in deference to comfort
+- I’m too tired to sleep
+# #survival
 ## survival
 - the apocalypse is fun if you have the guns
 - keep poverty at arms length
@@ -21,29 +44,10 @@ more organized collections of personal wisdom are under
 - you have no hope of controlling your attention if you do not control your technology
 ## conflict
 - the society that separates its scholars from its warriors will have its thinking done by cowards and its fighting by fools — Thucydides
-# creating
-## writing
-- it’s unwise to write from the perspective of how things should be, and rather, write from the perspective of how things feel. This allows you to build upon the truth within you that is always developing. Readers can better connect with the characters and deduce their own truths from the stories you weave in their place
-- you can’t write about anything good until you understand your own reaction to what you are writing about
-- being a good story teller is all about knowing what information is too broad, too personal, or not clear
-## the creative process
-- a poet is always trying to describe what cannot be said — Alan Watts
-- no piece of art is ever done, it’s just abandoned — John Tyler (a friend)
-- be the fan that isn't getting quite what you are looking for
-- don’t try to create and analyze at the same time. They are different processes
-- maintain a distinct private and public body of work
-- over-planning sucks the life out of the creative process
-## motivation
-- God sent me on earth. God sent me to do something, and nobody can stop me. If God wants to stop me, then I stop. Man never can — Bob Marley
-- the future belongs to those who believe in the beauty of their dreams — Eleanor Roosevelt
-- the day you plant the seed is not the day you eat the fruit — Paulo Coelho
-- You might know what happens next but you don’t know what happens after that and that’s ok, because you’re a grown up, and you will figure it out — Niel Gaiman
-- You don't have to force yourself to not sleep in. Just always think of sleeping in from the context if the things that are important
-- We give up greatness in deference to comfort
-- I’m too tired to sleep
-## engineering
-- complexity is inversely proportional to number of lines of code
-# business
+## safe driving (7% of all deaths are from cars!)
+- Every moment you are driving you are having a conversation with the outside world. Being a good driver is about your ability to keep that conversation going
+- driving angry is just as dangerous as driving drunk or tired
+# #business
 ## working together
 - no one will ever be more invested in your thing than you. Do not fight to keep people, fight to realize the vision
 - a goal that requires course correction from the current path of least resistance in order to succeed requires an degree of sustained effort that is unattainable without an evolving, shared vision
@@ -77,7 +81,7 @@ more organized collections of personal wisdom are under
 ## starting things
 - when trying to persuade a person of your idea idea, never assume you know what they want or don’t want.
 - when you are in an uncomfortable situation surrounded by unfamiliar people, the best thing you can say is “hello”
-# relationships
+# #humans
 ## getting along
 - familiarity breeds contempt
 - if you get too loose and too familiar with folks you need to share with, they don’t believe nothing you’re saying —Dr. Bertice Berry
@@ -112,7 +116,7 @@ more organized collections of personal wisdom are under
 - it’s easy to be against the man when there’s a war going on
 ## dating
 - women understand what men don’t. Dating is simple: find a consistent place and time where you can be seen as a prize and stick with it, until someone finds a way to connect
-# maturity
+# #maturity
 ## acceptance
 - the light enters where the wound is — Rumi
 - in history as in a human life, regret does not bring back a lost moment and one thousand years will not bring back something lost in a single hour
@@ -125,10 +129,6 @@ more organized collections of personal wisdom are under
 - fantasizing about what you want during sunny days, just makes the rainy days wetter
 - you cannot hide from what is meant for you, you can only run from it until there is nothing left
 - if you see the same tree twice in a forest, it means you are lost
-## learning
-- viewing yourself as too old to learn something is a toxic paradigm
-- the more you learn, the more you will realize how much you’ve missed out on from ignorance
-- why read boring books about magic when you can read great books that are magic?
 ## committing
 - when you choose, choose fully
 - addiction to possibility removes you from reality
@@ -147,7 +147,6 @@ more organized collections of personal wisdom are under
 - we get old when the weight of our memories and regrets starts to exceed that of our dreams
 - wasted time is never wasted once you recognize it
 - time has it’s own agenda
-# spirituality
 ## desire
 - the more we let external desires guide our thoughts and decisions, the easier we make it for new desires to displace and deprioritize what we obtain when we finally do get what we want
 - you shouldn’t place expectations on outcomes that are dependent on luck. Live in the present and focus intently on the process
@@ -176,9 +175,9 @@ more organized collections of personal wisdom are under
 - nothing is in vain that increases the net understanding of things that are important
 - the worst thing about weakness is that it leads to dishonesty
 - shutting your eyes to evil prevents goodness from prevailing
-## the meaning of life
-- life on earth is not about humans — Joscha Bach
-# wellbeing
+## parenting
+- kid's aren't expensive. Lifestyles are
+# #dhamma
 ## mental health
 - emotional stability is a scarce resource
 - unhealthy optimism mutates into to manic delusion
@@ -199,7 +198,8 @@ more organized collections of personal wisdom are under
 ## the body
 - physical pain makes emotional pain manifest
 - when you feel tired before a big event, your body is actually rationing energy for you
-# the world
+## the meaning of life
+- life on earth is not about humans — Joscha Bach
 ## conventional wisdom
 - the squeaky wheel gets the grease
 - empty barrels make the most noise
@@ -225,8 +225,6 @@ more organized collections of personal wisdom are under
 - there are two forces driving societal decay; masculine hedonism and feminine ignorance
 ## social change
 - weak messages create bad situations — David Shrigley
-## parenting
-- kid's aren't expensive. Lifestyles are
 
 # *some of my influences:*
 - [After Skool](https://www.instagram.com/afterskool100/?hl=en)

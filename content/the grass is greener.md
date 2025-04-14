@@ -2,6 +2,7 @@
 tags:
   - freeform
   - ditty
+  - maturity
 aliases:
   - FOMO
 ---

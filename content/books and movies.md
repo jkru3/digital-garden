@@ -2,6 +2,7 @@
 tags:
   - list
   - personal
+  - culture
 ---
 ![[nuggets of wisdom#^understanding-through-art]]
 # want to read — books

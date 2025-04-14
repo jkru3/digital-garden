@@ -2,6 +2,7 @@
 aliases:
   - freeform
   - ditty
+  - creation
 ---
 ideas are like organisms
 some ideas are good, some are bad

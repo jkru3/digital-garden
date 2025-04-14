@@ -4,6 +4,7 @@ aliases:
 tags:
   - freeform
   - ditty
+  - humans
 ---
-the first homo-sapien was autistic
+the first homo-sapien was probably autistic
 ![[the first human.png]]

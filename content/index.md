@@ -19,18 +19,19 @@ most of what’s here isn’t written toward any one particular audience. I like
 
 - the *structure* of each note is hashed as an **essay**, **list**, **freeform**, or part of the **navbar**
 - the *formality* of each note is either **personal**, **reflection**, **outline**, **documentation**, or **ditty** depending on how serious or personal I consider it 
-- i write about lots of *subjects*. Sometimes, several at the same time, including **tech**, …. I obsessively suck up new thoughts, quotes, and compare existing notes. A lot of my favorite ideas end up as [[nuggets of wisdom]]
+- i write about lots of *subjects*. Sometimes, several at the same time, including **humans**, **tech**, **culture**, **creation**, **survival**, **business**, **maturity**, and **dhamma** (AKA: “spirituality“). I’m absolutely not an expert in any of these domains, i’m just obsessively learning about them. I’ve indexed a lot of my favorite ideas in [[nuggets of wisdom]]
 
 i don’t write articles or blogs. Most of my ideas start small and grow over time. The best part about writing is seeing what I know and believe changing from year to year. I think the blogging model makes writers on Medium and Substack miss out on that experience (but that’s besides the point). Change is the only constant of our own attitudes, relationships, wellbeing, and skillsets. This is only a snapshot in time of who I am and what I'm thinking about
 
 ~Joey
 
-# [[currently building]]:
+# p.s. (for tech stuff)
+BTW, yes i work in tech, and if you are here for that, *yes*, i do write about that here too!
+## things I’m currently building
 - [[technical analysis portfolio adjuster]]
-- resume builder
+- [[resume builder]]
 - [[social media engagement maximizer]]
-
-# other ideas
+# other ideas (haven’t yet started)
 - [[art distribution project]]
 - [[reverse yelp]]
 - [[friend finder]]
@@ -38,8 +39,8 @@ i don’t write articles or blogs. Most of my ideas start small and grow over ti
 
 %% **TODO:**
 TODO:
-- clean up this page
-- POST
+- dhamma, business, relationships, maturity, and humanity. kind of confusing
+- dhamma, humans (relationships and humanity), business, maturity
 - restructure quotes and make subject tags
 ![](Carl%20Jung.webp)
 As Jung once said: ![[nuggets of wisdom#^god-Carl-Jung]]

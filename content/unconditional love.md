@@ -2,6 +2,8 @@
 tags:
   - essay
   - outline
+  - maturity
+  - humans
 ---
 >when you like a flower you pluck it, but when you love a flower you water it daily
 
