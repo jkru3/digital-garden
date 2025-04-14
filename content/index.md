@@ -27,20 +27,23 @@ i don’t write articles or blogs. Most of my ideas start small and grow over ti
 
 # p.s. (for tech stuff)
 BTW, yes i work in tech, and if you are here for that, *yes*, i do write about that here too!
-## things I’m currently building
-- [[technical analysis portfolio adjuster]]
-- [[resume builder]]
+## things I’m currently creating
 - [[social media engagement maximizer]]
-# other ideas (haven’t yet started)
+- [[subscription model Quartz]]
+- [[technical analysis portfolio adjuster]]
+## other ideas (will create someday, if time allows)
+- [[future urban sprawl predictor]]
 - [[art distribution project]]
 - [[reverse yelp]]
 - [[friend finder]]
-- [[future urban sprawl predictor]]
+## things I’ve created
+- [everything always works out in the end](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=0RGh8qFtRQOqxshjBY7RDg&nd=1&dlsi=de78ec430def4e69)
+- [Clearvote](https://clearvote.info/)
+- [Jobfindr](https://github.com/jkru3/jobfindr) —this is currently setup personal use only, but if you’re interested in using this for yourself, [[contact|let's talk]] 🙂
 
 %% **TODO:**
 TODO:
-- dhamma, business, relationships, maturity, and humanity. kind of confusing
-- dhamma, humans (relationships and humanity), business, maturity
+- random note + orphened note open
 - restructure quotes and make subject tags
 ![](Carl%20Jung.webp)
 As Jung once said: ![[nuggets of wisdom#^god-Carl-Jung]]
