@@ -6,13 +6,14 @@ tags:
 aliases:
   - Joey
 ---
-\>be me
-\>13 m
-\>don’t fit in at school. Ok at math and science but not much else. Not good at sports
-\>pick up guitar. Both parents are both musicians. It comes naturally
-\>2008 financial crash happens
-\>parents do everything they can to convince me not to be a musician as the American dream crumbles around them
-\>start smoking weed and give up on school. Waste tons of time playing video games
+```
+>be me
+>13 m
+>don’t fit in at school. Ok at math and science but not much else. Not ood at sports
+>pick up guitar. Both parents are both musicians. It comes naturally
+>2008 financial crash happens
+>parents do everything they can to convince me not to be a musician as the American dream crumbles around them
+>start smoking weed and give up on school. Waste teenage years playing video games
 \>19 now
 \>go to a state college for a year. Hate it and drop out
 \>parents threaten to kick me out if I don’t finish college. Finish an associates degree to appease them so I can have a place to record music
@@ -42,7 +43,7 @@ aliases:
 \>4.0 all my classes. Get accepted into UW CS
 \>move to Seattle to study
 \>break up with my first serious girlfriend at the time (painful)
-\>mfw 16yo run circles around me academically
+\>mfw 16/yo run circles around me academically
 \>get a few internships
 \>start building an app
 \>get back together with my ex
@@ -55,3 +56,4 @@ aliases:
 \>find myself questioning whether or not my successes were enough to outweigh my failures
 \>wondering whether or not i’ll be a serf to big tech AI overlords for the rest of my life
 \>look back at how far i’ve come. Have to remember to have hope
+```
