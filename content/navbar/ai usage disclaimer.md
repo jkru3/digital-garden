@@ -1,6 +1,7 @@
 ---
 tags:
-  - intro
+  - navbar
+  - documentation
 ---
 ## COPYRIGHT AND DATA USAGE DISCLAIMER
 

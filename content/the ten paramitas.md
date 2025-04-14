@@ -1,7 +1,7 @@
 ---
 tags:
-  - draft
-  - abstract
+  - list
+  - outline
 aliases:
   - the ten perfections
 ---

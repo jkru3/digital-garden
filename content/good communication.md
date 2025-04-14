@@ -1,8 +1,6 @@
 ---
 tags:
-  - draft
-  - abstract
+  - freeform
+  - ditty
 ---
-in one sentence: *say less and express more*
-
-In many sentences: 
+good communication is all about *saying less and expressing more*
