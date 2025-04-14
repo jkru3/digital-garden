@@ -26,8 +26,8 @@ i don’t write articles or blogs. Most of my ideas start small and grow over ti
 ~Joey
 
 
-# technology
-BTW, yes i work in tech, and if you are here for that, *yes*, i do write about that here too!
+# tech
+i work in technology (specializing in **DevOps**, **Cloud Engineering**, and **Observability tools**). If you are here for that, *yes*, i do write about that here too!
 
 you can find a link to my current resume [here](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf)
 ## things I’m currently creating
