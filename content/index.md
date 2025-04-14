@@ -8,7 +8,7 @@ hi, i’m Joey, and I’m a 29 year old developer based out of Washington State,
 
 engineers are at their best when they understand complexity in depth. Artists are at their best when the depth of their process defies understanding. I aspire to straddle both vocations, and I’ve built [apps](https://clearvote.info/) and written [albums](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=0RGh8qFtRQOqxshjBY7RDg) exploring that
 
-but there’s a cost to [[being a generalist|generalism]]. The same skills that make an engineer great can hinder the abilities of an artist, and vice versa. So i’ve setup this [digital garden](https://joelhooks.com/digital-garden/) as a generalist playground. If you are not familiar with the term, think of it less like a personal blog or website, and more a personal wiki for all your thoughts
+but there’s a cost to generalism. The same skills that make an engineer great can hinder the abilities of an artist, and vice versa. So i’ve setup this [digital garden](https://joelhooks.com/digital-garden/) as a generalist playground. If you are not familiar with the term, think of it less like a personal blog or website, and more a personal wiki for all your thoughts
 
 i think of this as my proof of stake in the human experience. There’s something satisfying about articulating a thought and exposing it the world knowing: “i thought that”. When all the heavy lifting is done by AI sometime in our lifetimes, all we might have left is what we’ve experienced
 
