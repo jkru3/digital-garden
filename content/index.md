@@ -26,7 +26,6 @@ i don’t write articles or blogs. Most of my ideas start small and grow over ti
 
 ~Joey
 
-
 # [[currently building]]:
 - [[technical analysis portfolio adjuster]]
 - resume builder
