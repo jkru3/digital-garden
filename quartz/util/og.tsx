@@ -148,7 +148,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = (
   const useSmallerFont = title.length > fontBreakPoint
 
   // Setup to access image
-  const iconPath = `https://${cfg.baseUrl}/static/sulfer.png`
+  const iconPath = `https://${cfg.baseUrl}/static/icon.png`
   return (
     <div
       style={{
