@@ -18,8 +18,6 @@ more organized collections of personal wisdom are under
 - it’s unwise to write from the perspective of how things should be, and rather, write from the perspective of how things feel. This allows you to build upon the truth within you that is always developing. Readers can better connect with the characters and deduce their own truths from the stories you weave in their place
 - you can’t write about anything good until you understand your own reaction to what you are writing about
 - being a good story teller is all about knowing what information is too broad, too personal, or not clear
-## technology
-- complexity is inversely proportional to number of lines of code
 ## the creative process
 - a poet is always trying to describe what cannot be said — Alan Watts
 - no piece of art is ever done, it’s just abandoned — John Tyler (a friend)
@@ -27,7 +25,7 @@ more organized collections of personal wisdom are under
 - don’t try to create and analyze at the same time. They are different processes
 - maintain a distinct private and public body of work
 - over-planning sucks the life out of the creative process
-## creative motivation
+## finding creative motivation
 - God sent me on earth. God sent me to do something, and nobody can stop me. If God wants to stop me, then I stop. Man never can — Bob Marley
 - the future belongs to those who believe in the beauty of their dreams — Eleanor Roosevelt
 - the day you plant the seed is not the day you eat the fruit — Paulo Coelho
@@ -35,6 +33,13 @@ more organized collections of personal wisdom are under
 - You don't have to force yourself to not sleep in. Just always think of sleeping in from the context if the things that are important
 - We give up greatness in deference to comfort
 - I’m too tired to sleep
+# #technology
+## software
+- complexity is inversely proportional to number of lines of code
+## the engineering mindset
+- one of the weaknesses of engineers is that we find more joy in figuring things out for ourselves than asking for advice
+## staying focused
+- deep work is the highest-paid skill on the planet
 # #survival
 ## survival
 - the apocalypse is fun if you have the guns

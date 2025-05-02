@@ -12,6 +12,8 @@ tags:
 ## time
 - [time is everything to kids](https://www.youtube.com/watch?v=__3V1eRX9bU)
 - listen to your kids, repeat back what they say. When you listen to them you bond, and when they bond they often *pick your values*
+## love of life
+- take kids on rides. Carry them, hike with them, go on bike rides, etc.
 ## finding the right place to live
 use material (tangible) richness like money and influence to buy into intangible richness (community, space, peacefulness).
 - near an elementary school (preferably private)

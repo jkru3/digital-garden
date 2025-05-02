@@ -6,8 +6,7 @@ tags:
 aliases:
   - Joey
 ---
-
-- be me
+%% - be me
 - 13 m
 - don’t fit in at school. Ok at math and science but not much else. Not good at sports
 - pick up guitar. Both parents are both musicians. It comes naturally
@@ -55,4 +54,14 @@ aliases:
 - ai is about to take all the jobs
 - find myself questioning whether or not my successes were enough to outweigh my failures
 - wondering whether or not i’ll be a serf to big tech AI overlords for the rest of my life
-- have to look back on how far i’ve come. Have to remember to have hope
+- have to look back on how far i’ve come. Have to remember to have hope  %%
+hi, i’m Joey
+
+growing up I was good at math, but really drawn to the arts, and very lost in school. After the 2008 crash, my parents who were both musicians themselves urged me away from music, but I chased it anyways. Instead of following through on college, in my early 20s…
+- I played guitar in bands
+- wrote albums, 
+- lived out of a van
+- made money as a street performer
+- and worked and lived at a hostel in Mexico
+
+after Covid, i decided to pivot to technology after getting lost in the engineering of several projects i worked on. I resumed study at the University of Washington to study computer science, where i kept pace with some really brilliant young adults. I also co-founded a student-run startup called Clearvote, with the purpose of making it easy to lookup information about local election candidates

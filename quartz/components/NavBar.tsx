@@ -1,81 +1,104 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import explorerStyle from "./styles/explorer.scss"
+import navbarStyle from "./styles/navbar.scss"
 
 // @ts-ignore
-import script from "./scripts/explorer.inline"
-import { ExplorerNode, FileNode, Options } from "./ExplorerNode"
-import { QuartzPluginData } from "../plugins/vfile"
+import script from "./scripts/navbar.inline"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
+import { resolveRelative } from "../util/path"
+import { FilePath, SimpleSlug, FullSlug, joinSegments } from "../util/path"
 
-// Options interface defined in `ExplorerNode` to avoid circular dependency
+// Interface for navbar items
+interface NavItem {
+  title: string
+  slug: string
+  displayName: string
+  file: boolean
+  order?: number
+}
+
+interface NavbarOptions {
+  title?: string
+  folderDefaultState: "collapsed" | "open"
+  folderClickBehavior: "link" | "collapse"
+  useSavedState: boolean
+  mapFn?: (node: NavItem) => NavItem
+  sortFn?: (a: NavItem, b: NavItem) => number
+  filterFn?: (node: NavItem) => boolean
+}
+
 const defaultOptions = {
-  folderClickBehavior: "collapse",
-  folderDefaultState: "collapsed",
+  folderClickBehavior: "link" as const,
+  folderDefaultState: "open" as const,
   useSavedState: true,
-  mapFn: (node) => {
+  mapFn: (node: NavItem) => {
     return node
   },
-  sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabetically
-    if ((!a.file && !b.file) || (a.file && b.file)) {
-      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
-      return a.displayName.localeCompare(b.displayName, undefined, {
-        numeric: true,
-        sensitivity: "base",
-      })
+  sortFn: (a: NavItem, b: NavItem) => {
+    // Sort by order first, then alphabetically
+    if (a.order !== undefined && b.order !== undefined) {
+      return a.order - b.order
+    } else if (a.order !== undefined) {
+      return -1 // a has order, b doesn't, a comes first
+    } else if (b.order !== undefined) {
+      return 1 // b has order, a doesn't, b comes first
     }
-
-    if (a.file && !b.file) {
-      return 1
-    } else {
-      return -1
-    }
+    
+    // Sort alphabetically if no order is defined
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
   },
-  filterFn: (node) => node.name !== "tags",
-  order: ["filter", "map", "sort"],
-} satisfies Options
+  filterFn: (node: NavItem) => true, // Include all by default
+} satisfies NavbarOptions
 
-export default ((userOpts?: Partial<Options>) => {
+export default ((userOpts?: Partial<NavbarOptions>) => {
   // Parse config
-  const opts: Options = { ...defaultOptions, ...userOpts }
+  const opts: NavbarOptions = { ...defaultOptions, ...userOpts }
 
   // memoized
-  let fileTree: FileNode
-  let jsonTree: string
+  let navItems: NavItem[] = []
   let lastBuildId: string = ""
 
-  function constructFileTree(allFiles: QuartzPluginData[]) {
-    // Construct tree from allFiles
-    fileTree = new FileNode("")
-    allFiles.forEach((file) => {
-      if (file.filePath === "content/tipping as mutual aid.md") // TODO: this is rough and should be done differently
-        fileTree.add(file)
-    })
+  function constructNavItems(allFiles: any[]) {
+    // Find files in the navbar folder
+    navItems = allFiles
+      .filter((file) => {
+        // Check if file path starts with navbar/
+        return file.slug.startsWith("../navbar/") && !file.slug.endsWith("index")
+      })
+      .map((file) => {
+        const title = file.frontmatter?.title || file.title || 
+                     file.slug.split("/").pop() || ""
+        const order = file.frontmatter?.order
 
-    // Execute all functions (sort, filter, map) that were provided (if none were provided, only default "sort" is applied)
-    if (opts.order) {
-      // Order is important, use loop with index instead of order.map()
-      for (let i = 0; i < opts.order.length; i++) {
-        const functionName = opts.order[i]
-        if (functionName === "map") {
-          fileTree.map(opts.mapFn)
-        } else if (functionName === "sort") {
-          fileTree.sort(opts.sortFn)
-        } else if (functionName === "filter") {
-          fileTree.filter(opts.filterFn)
+        return {
+          title,
+          slug: file.slug as SimpleSlug,
+          displayName: title,
+          file: true,
+          order
         }
-      }
+      })
+
+    // Apply filters
+    if (opts.filterFn) {
+      navItems = navItems.filter(opts.filterFn)
     }
 
-    // Get all folders of tree. Initialize with collapsed state
-    // Stringify to pass json tree as data attribute ([data-tree])
-    const folders = fileTree.getFolderPaths(opts.folderDefaultState === "collapsed")
-    jsonTree = JSON.stringify(folders)
+    // Apply mapping
+    if (opts.mapFn) {
+      navItems = navItems.map(opts.mapFn)
+    }
+
+    // Apply sorting
+    if (opts.sortFn) {
+      navItems = navItems.sort(opts.sortFn)
+    }
   }
 
-  const Explorer: QuartzComponent = ({
+  const Navbar: QuartzComponent = ({
     ctx,
     cfg,
     allFiles,
@@ -84,48 +107,36 @@ export default ((userOpts?: Partial<Options>) => {
   }: QuartzComponentProps) => {
     if (ctx.buildId !== lastBuildId) {
       lastBuildId = ctx.buildId
-      constructFileTree(allFiles)
+      constructNavItems(allFiles)
     }
 
+    // Properly handle slug types
+    const currentSlug = fileData.slug ?? "/" as FullSlug
+    
     return (
-      <div class={classNames(displayClass, "explorer")}>
-        <button
-          type="button"
-          id="explorer"
-          data-behavior={opts.folderClickBehavior}
-          data-collapsed={opts.folderDefaultState}
-          data-savestate={opts.useSavedState}
-          data-tree={jsonTree}
-          aria-controls="explorer-content"
-          aria-expanded={opts.folderDefaultState === "open"}
-        >
-          <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="14"
-            height="14"
-            viewBox="5 8 14 8"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            class="fold"
-          >
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
-        <div id="explorer-content">
-          <ul class="overflow" id="explorer-ul">
-            <ExplorerNode node={fileTree} opts={opts} fileData={fileData} />
-            <li id="explorer-end" />
-          </ul>
+      <div class={classNames(displayClass, "navbar")}>
+        <div class="navbar-container">
+          <a href={resolveRelative(currentSlug, "/" as SimpleSlug)} class="navbar-logo">
+            <img src="/static/icon.png" alt={cfg.pageTitle} />
+            <span>{cfg.pageTitle}</span>
+          </a>
+          <div class="navbar-items">
+            {navItems.map((item) => (
+              <a 
+                key={item.slug} 
+                href={resolveRelative(currentSlug, item.slug as SimpleSlug)} 
+                class="navbar-item"
+              >
+                {item.title}
+              </a>
+            ))}
+          </div>
         </div>
       </div>
     )
   }
 
-  Explorer.css = explorerStyle
-  Explorer.afterDOMLoaded = script
-  return Explorer
+  Navbar.css = navbarStyle
+  Navbar.afterDOMLoaded = script
+  return Navbar
 }) satisfies QuartzComponentConstructor
