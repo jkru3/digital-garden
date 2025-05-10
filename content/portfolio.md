@@ -1,4 +1,7 @@
- <h1><b>ongoing</b> work<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR5azNjZXJicmd5bmF6N3ZoaWg5ZHhuNTlkcWxxYm5zZ3ppcGVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ciqpFeTIjGqBhl6rn9/giphy.gif" width="50"/>
+> [!info] 🔥 open to work! 🔥
+> if you are a hiring manager, founder, or just a curious developer who has stumbled upon this page, welcome to my portfolio! I’m actively looking for work in the Seattle area. If interested in working together, feel free to reach out at [joseph.L.krueger@gmail.com](mailto:joseph.L.krueger@gmail.com)
+ 
+<h1><b>ongoing</b> projects<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR5azNjZXJicmd5bmF6N3ZoaWg5ZHhuNTlkcWxxYm5zZ3ppcGVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ciqpFeTIjGqBhl6rn9/giphy.gif" width="50"/>
 </h1>
 
 ## Clearvote
@@ -6,12 +9,14 @@
 
 ## Financial Portfolio Rebalancer
 
+
 ## jobfindr
 
-<h1><i>previous</i> work<img src=https://media.giphy.com/media/ifSFik6ynNbwcotPDK/giphy.gif?cid=ecf05e479ry2no0qw4wooowszdiph47a0rulac0fcnjnyznt&ep=v1_stickers_related&rid=giphy.gif&ct=s width=100/></h1>
+<h1><i>previous</i> projects<img src=https://media.giphy.com/media/ifSFik6ynNbwcotPDK/giphy.gif?cid=ecf05e479ry2no0qw4wooowszdiph47a0rulac0fcnjnyznt&ep=v1_stickers_related&rid=giphy.gif&ct=s width=100/></h1>
 
 ## High Speed Rail project
-[<iframe width="560" height="315" src="https://www.youtube.com/watch?v=goHGTVUmz0M&t=14" frameborder="0" allowfullscreen></iframe>](<%3Ciframe width="560" height="315" src="https://www.youtube.com/embed/goHGTVUmz0M?si=WF-6ACufQMe5B7Ec&amp;start=14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen%3E</iframe>>)
+
+![](https://www.youtube.com/watch?v=goHGTVUmz0M&t=14)
 
 
 
