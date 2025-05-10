@@ -8,8 +8,7 @@ though I’m early career, I plan on specializing in **DevOps**, **Cloud Enginee
 
 you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf)
 
-## things I’ve created
-
+# ongoing projects <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR5azNjZXJicmd5bmF6N3ZoaWg5ZHhuNTlkcWxxYm5zZ3ppcGVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ciqpFeTIjGqBhl6rn9/giphy.gif" width="50"/>
 
 ## Clearvote
 <span>
@@ -31,7 +30,7 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 </span>
 - [Clearvote](https://clearvote.info/)
 
-## Financial Portfolio Rebalancer
+## financial portfolio rebalancer
 <span>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" width="">
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" width="">
@@ -42,6 +41,7 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes" width="">
 </span>
 [[technical analysis portfolio adjuster]]
+
 ## jobfindr
 <span>
   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" alt="LaTeX" width="">
@@ -51,7 +51,7 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 ## Twitter Engagement Maximizer
 [[social media engagement maximizer]]
 
-<h1><i>previous</i> projects<img src=https://media.giphy.com/media/ifSFik6ynNbwcotPDK/giphy.gif?cid=ecf05e479ry2no0qw4wooowszdiph47a0rulac0fcnjnyznt&ep=v1_stickers_related&rid=giphy.gif&ct=s width=100/></h1>
+# *previous* projects <img src="https://media.giphy.com/media/9AnlnxZ2kJ2yU682Gg/giphy.gif?cid=ecf05e47hng32xd2d4fmg4wn3iy2t0ouqww8f0eh1ybv770s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"/>
 
 ## High Speed Rail project
 <span>
@@ -83,7 +83,8 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
   <img src="https://img.shields.io/badge/ElevenLabs-161A38?logo=elevenlabs&logoColor=white&style=for-the-badge" alt="ElevenLabs" width="">
 </span>
 
-## Future ideas (will create someday, if time allows)
+# future plans (may create someday, if time allows) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA2NWQ4cmRhZzEzZTB1bTVpdTI3YXhlNHBlZWhoamU5ZXYxNjM3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0YwHADEH90Mjii6qHV/giphy.gif" width="50"/>
+
 - [[future urban sprawl predictor]]
 - [[art distribution project]]
 - [[reverse yelp]]
