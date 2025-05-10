@@ -11,7 +11,7 @@ This page is a mess / work in progress of more than a year of ideas
 # becoming a well rounded person
 ## 1. learn how to **take in information**
 this is the first step to overriding your natural dispositions, which are almost certainly dysfunctional to some degree
-- [[what i learned at school]]
+- [[school wisdom]]
 - treat your behavior like an algorithm. Explore it. You’re way of doing things is unique, and so there is something you do more efficiently than everyone else. Don’t spend time trying for conform yourself to other people’s concept of efficiency and instead move quickly and continue to refine your own path in everything you learn
 - get good at [[asking questions]]. If you don’t know how to ask questions, you will never be capable of changing course, (which is what agency is all about)
 - become [[conduit of information]], not a sponge
@@ -113,7 +113,7 @@ fighting is an extension of survival, but one that enables you to go beyond and 
 ## 5. learn how to work with others (outside your circle)
 in all relationships you will encounter people who can help you, people who can hurt you, and people who could be great friends. It’s important to understand how to set boundaries that allow the right people to come closer and keep the wrong people at a distance
 - seek to inspire, not to impress
-- understand [[game theory]] principles
+- understand [[Game Theory]] principles
 - be a giver, but give mindfully of your time and energy (small, frequent gives as opposed to big, infrequent ones)
 - poor opinions are more likely to be simple, simple opinions are more likely to be loud, and louder opinions are more likely to get attention
 - RICE (rewards, ideology, coercion, ego)
@@ -174,14 +174,14 @@ treat your friends well. Building a community of people you care about will set 
 	- some people don’t want to see your success exceed their own. They will make subtle jabs at you disguised as comforting remarks or concern for your well being. These people are the most dangerous to be close with
 - show random acts of appreciation/admiration/kindness
 	- especially for those who are easiest to take for granted (friends, peers, and **family**)
-- [[unconditional love]]
+- [[love]]
 ## 7. learn what matters (dhamma, god, love —whatever you want to call it)
 bring love into your life
 - life has a rhythm to it that [[obsession]] can take you out of if you allow it to
 - focus on the [[being a generalist]] philosophy
 - respect randomness. Appreciate what comes to you. Things don’t have to happen for a reason for them to have meaning
 - advocate for increasing the net understanding of things that are important
-- recognize FOMO, [[the grass is greener]]
+- recognize [[FOMO]]
 - reject [[Monoculture]] systems, behaviors, and attitudes. They erode beauty and elevate weakness
 - life is limitation. Perfectionism is death because it hyper-focuses on the gains of diminishing returns rather than the sweeping gains of exploring breadth and leaning into your unique strengths
 - [[Important qualities of healthy interpersonal relationships]]

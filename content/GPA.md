@@ -4,7 +4,7 @@ tags:
   - list
   - reflection
 ---
-# GPA is a measure of several things
+# what is GPA?
 1. Disciplined capabilities
 	1. Ability to budget time
 	2. Efficiency of workflow

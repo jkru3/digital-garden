@@ -3,6 +3,7 @@ tags:
   - list
   - reflection
 ---
+many of these things school doesn’t teach directly. Though, society would probably function more effectively if we taught survival skills and emotional regulation in a [[new school curriculum]]
 1. how to capture ideas
 2. sunk cost fallacy works against you
 3. being surrounded by people who are smarter at you is a privilege
@@ -13,3 +14,5 @@ tags:
 8. focus on what is in your immediate control
 9. let go of what isn’t in your immediate control
 10. observe find balance between your thinking and feeling patterns
+
+in addition to being great life skills, all of these things contributed to boosting my [[GPA]]

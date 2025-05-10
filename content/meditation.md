@@ -10,7 +10,7 @@ far out in the countryside of southern Washington there are students of all ages
 
 the practice is called [Vipassana](https://www.dhamma.org/en/index). It’s a free, 10-day ‘meditation retreat’ that is hard to describe without cheapening it. A spiritual boot camp? A journey of self exploration? No, words don’t quite do it justice
 
-i myself heard about it from a friend. I just so happened to be graduating and I had a 12 day period in between school and the start of a job that could very well be the rest of my life. What better way to have possibly an existential crisis than at a silent retreat in the middle of the woods? Multiple people were concerned I might be joining a cult
+i myself heard about it from a friend. I just so happened to be graduating, and I had a 12 day period in between school and the start of a job that could very well be the rest of my life. What better way to have an existential crisis than at a silent retreat in the middle of the woods? Multiple people were concerned i might be joining a cult
 
 Vipassana is anything but a cult. You can look into it yourself. The point of this essay is to discuss some of the things I learned while meditating, and frankly I’d rather talk about my experience in that than try and convince you participate a highly intensive period of reflective self-imprisonment
 

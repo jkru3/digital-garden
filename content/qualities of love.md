@@ -5,7 +5,7 @@ tags:
 aliases:
   - safety, happiness, nourishment, inspiration, and freedom
 ---
-Innate qualities we all have that love ***shares**, not provides
+Innate qualities we all have that [[love]] ***shares**, not provides
 
 For each checkbox, ask the following:
 1. Do they make me feel…

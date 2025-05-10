@@ -19,9 +19,9 @@ And at this point, it no matter what the doctor could have said to the man about
 
 This is not a unique story. Many similar accounts can be found across all disruptive industries. Fossil fuels lobbied for years to keep leaded gasoline legal as it empirically lowered the IQ of an entire generation. Oil companies today continue to lobby against climate change regulations. Technology companies like Microsoft and Google lobbied school systems across the country; who bought into everything from quickly outdated computer labs, to “smart boards” –and most recently, the rapid shift to online learning. And lets not even start with the pharmaceutical industry.
 
-There are countless instances where US society has bought (and continues to buy) into things against their interest in the past. I would argue that the story is no different than what we are seeing with AI now. Less than a decade ago, Sam Altman, was working along side some of the brightest people in the field of machine learning and computer science at a small non-profit. Today, he frequents congressional hearings, reassuring an elderly cast of powerful people who can barely utilize a smartphone without help that “AI will create more jobs… eventually”.
+There are countless instances where US society has bought (and continues to buy) into things against their interest in the past. I would argue that the story is no different than what we are seeing with AI now. Less than a decade ago, Sam Altman, was working along side some of the brightest people in the field of machine learning and computer science at a small non-profit. Today, he frequents congressional hearings, reassuring an elderly cast of powerful people who can barely utilize a smartphone without assistance that “AI will create more jobs… eventually”. 
 
-Is it ok to be skeptical of AI now? because every time I hear any discourse related to “slowing down” or “proceeding carefully” there is an air of dismissal. That’s a decision up to the Stanford PhD grads to decide and the 0.0005% of the US population who works at Google. 
+We know how [[disruptive technology]] works and they tell us this is the most disruptive. Is it ok to be skeptical of AI now? because every time I hear any discourse related to “slowing down” or “proceeding carefully” there is an air of dismissal. That’s a decision up to the Stanford PhD grads to decide and the 0.0005% of the US population who works at Google. 
 
 Mr. Altman did recently state that there is a need for more people involved in the decision making of OpenAI’s technologies. But I can’t help but hear a rhetoric that is no different than Amazon saying they need to make their operations more sustainable, despite remaining one of the top emitters of carbon. Oil companies themselves have used this tactic religiously. You can build an entire arena and call it “OpenAI Loves AI Safety Stadium”, but that doesn’t do anything to make AI safety a reality.
 
@@ -31,4 +31,4 @@ In reality, I think the only solution to this issue is increased concern from th
 
 And so when a nurse or a farmer or anyone else completely removed from the technology expresses anything but optimism on the topic, I can see why people involved who work with it might 
 
-The man who started the business that would become Marlboro cigarettes died of lung cancer.
+The man who started the business that would become Marlboro cigarettes died of lung cancer

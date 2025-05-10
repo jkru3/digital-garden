@@ -23,6 +23,8 @@ use material (tangible) richness like money and influence to buy into intangible
 	- there should be a **natural escape route** where you can walk in a direction outside your general neighborhood and continue indefinitely without encountering human traffic
 - has an established **participatory community** (avoids suburban-style consumerism and no-trespass escapism)
 	- only a community that offers it’s hand at mutual aid is capable of instilling the positive values in children. Otherwise, the job rests entirely on the parents, who are flawed
+## school
+it is insane how millions of parents have allowed a school curriculums that persist that failing to teach important emotional-regulatory skills and survival skills. A [[new school curriculum]] is needed
 # the stages of life
 What do these 6 things look like at every stage of development? (infancy, toddler, young child, older child, preteen, teen, old teen, young adult)
 ## Pre-infancy

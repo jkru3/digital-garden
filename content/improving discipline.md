@@ -31,7 +31,6 @@ tags:
 7. Avoid practices that drain willpower or disrupt your ability to train it or maintain a consistent circadian rhythm
 	- Avoid blue light after 9pm
 	- Youtube, Instagram, Google
-	- Masturbation
 	- Sugary, high GI foods
 8. Appreciate the fruit of slow growth and consistency over quick gains and sweeping victories. 
 9. …but ALSO recognize that monotony *is not* consistency and that novelty in routine and lifestyle is necessary. *Both novelty and consistency are ingredients of discipline*

@@ -24,8 +24,20 @@ test locally
 deploy
 `npx quartz sync`
 
-
-
+# TODO:
+- [ ] seperate navbar from content: navbar could be out of content if necessary
+- [ ] sort explorer by modified time (and only most recent files)
+- [ ] styling
+  - [ ] early 2000's [html?](https://localghost.dev/blog/building-a-website-like-it-s-1999-in-2022/)
+  - [ ] center components on right (and left)
+  - [ ] hide tags. They are ugly
+  - [ ] better font and light/dark colors
+- [ ] make a dedicated, responsive-only navbar component. This could be combined with PageTitle
+- [ ] make light/darkmode more fancy
+- [ ] connect writings
+- [ ] highlight vistited links
+- [ ] find a way to setup view counts
+- [ ] setup newsletters
 
 
 # Navbar Component Integration Guide for Quartz 4.0

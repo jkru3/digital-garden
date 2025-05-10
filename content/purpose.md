@@ -13,7 +13,7 @@ i once went to a local guitar shop and was surprised to see an old friend behind
 
 # breakdown
 people pursue long-term endeavors for 3 reasons:
-- Passion (acceptance)
+- [[Passion]] (acceptance)
 	- The state of flow one encounters in engagement
 	- The alignment with one’s thought patterns and the subject matter
 	- A feeling of vocation and intrinsic purpose derived from pursuing it
@@ -23,7 +23,7 @@ people pursue long-term endeavors for 3 reasons:
 	- Being indiscriminately looked down upon by others without completion of the endeavor
 	- FOMO —Missing out on some existentially meaningful experience
 - Vanity (pride / honor?)
-	- Doubling down on pursuing an endevour to avoid the monotony, dissatisfaction, and inner emptiness of something else (usually, of being an “adult”)
+	- Doubling down on pursuing an endeavor to avoid the monotony, dissatisfaction, and inner emptiness of something else (usually, of being an “adult”)
 	- Being able to feel intellectually, physically, or even spiritually superior
 	- Attaining prestige that will allow one to assert their experiences over others
 All people are driven by some degree of all these reasons in their long-term actions

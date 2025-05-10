@@ -4,6 +4,6 @@ tags:
   - ditty
   - maturity
 aliases:
-  - FOMO
+  - grass is greener
 ---
 the fantasization of other possibilites is poisonous to your own
