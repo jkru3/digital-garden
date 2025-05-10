@@ -6,13 +6,17 @@
 
 ## Clearvote
 <span>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" width=”50”>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" width=”50”>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" width=”0”>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" alt="Node.js" width=“0”>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" alt="Flask" width=“0”>
+  <img src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB&style=flat-square" alt="React" width=“0”>
+  <img src="https://img.shields.io/badge/Next.js-000000?&logo=nextdotjs&logoColor=white&style=flat-square" alt="Next" width=“0”>
 </span>
 
-
 ## Financial Portfolio Rebalancer
-
+<span>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" width=”0”>
+</span>
 
 ## jobfindr
 
