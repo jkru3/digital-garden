@@ -58,7 +58,8 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 [[social media engagement maximizer]]
 
 ---
-# *previous* projects <img src="https://media.giphy.com/media/9AnlnxZ2kJ2yU682Gg/giphy.gif?cid=ecf05e47hng32xd2d4fmg4wn3iy2t0ouqww8f0eh1ybv770s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" style="float: right; margin-top: -25px;"/>
+# *previous* projects
+<img src="https://media.giphy.com/media/9AnlnxZ2kJ2yU682Gg/giphy.gif?cid=ecf05e47hng32xd2d4fmg4wn3iy2t0ouqww8f0eh1ybv770s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" style="float: right; margin-top: -50px;"/>
 
 ## High Speed Rail project
 <span>
