@@ -1,7 +1,7 @@
 ---
 alias: here
 ---
-> [!info] open to work! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwM2p2eHJqbG45YTA3OW5maTV5dzhocWNqcHMxOHlmMnoyenVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2asJ7V7HkcO8vkIDa/giphy.gif" width="35" style="vertical-align: middle; position: relative; top: -2px;" />
+> [!tip] open to work! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwM2p2eHJqbG45YTA3OW5maTV5dzhocWNqcHMxOHlmMnoyenVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2asJ7V7HkcO8vkIDa/giphy.gif" width="35" style="vertical-align: middle; position: relative; top: -2px;" />
 > if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my portfolio! I'm actively looking for work in the Seattle area. If interested in working together, feel free to reach out at <a href="mailto:joseph.L.krueger@gmail.com">joseph.L.krueger@gmail.com</a>
 
 though I’m early career, I plan on specializing in **DevOps**, **Cloud Engineering**, and **Observability tools**. My longterm goal is to build infrastructure for ML, particularity infrastructure that makes it easier to understand what’s going on inside the black box, so that non-technical people can make better judgements about the technology that is displacing their work
@@ -43,15 +43,18 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" width="">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes" width="">
 </span>
+
 [[technical analysis portfolio adjuster]]
 
 ## jobfindr
 <span>
   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" alt="LaTeX" width="">
 </span>
-- [Jobfindr](https://github.com/jkru3/jobfindr) —this is currently setup personal use only, but if you’re interested in using this for yourself, [[contact|let's talk]] 🙂
+
+[Jobfindr](https://github.com/jkru3/jobfindr) —this is currently setup personal use only, but if you’re interested in using this for yourself, [[contact|let's talk]] 🙂
 
 ## Twitter Engagement Maximizer
+
 [[social media engagement maximizer]]
 
 ---
@@ -82,7 +85,7 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
   <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge" alt="Spotify" width="">
 </span>
 
-- [everything always works out in the end](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=0RGh8qFtRQOqxshjBY7RDg&nd=1&dlsi=de78ec430def4e69)
+[everything always works out in the end](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=0RGh8qFtRQOqxshjBY7RDg&nd=1&dlsi=de78ec430def4e69)
 
 ## AutoDubs
 <span>
