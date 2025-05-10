@@ -5,6 +5,10 @@
 </h1>
 
 ## Clearvote
+<span>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" width=”50”>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" width=”50”>
+</span>
 
 
 ## Financial Portfolio Rebalancer
