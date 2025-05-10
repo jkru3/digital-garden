@@ -29,24 +29,6 @@ i don’t write articles or blogs. Most of my ideas start small and grow over ti
 ~Joey
 
 
-# technology
-i work in tech (specializing in **DevOps**, **Cloud Engineering**, and **Observability tools**). If you are here for that, *yes*, i do write about that here too!
-
-you can find a link to my current resume [here](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf)
-## things I’m currently creating
-- [[social media engagement maximizer]]
-- [[subscription model Quartz]]
-- [[technical analysis portfolio adjuster]]
-## other ideas (will create someday, if time allows)
-- [[future urban sprawl predictor]]
-- [[art distribution project]]
-- [[reverse yelp]]
-- [[friend finder]]
-## things I’ve created
-- [everything always works out in the end](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=0RGh8qFtRQOqxshjBY7RDg&nd=1&dlsi=de78ec430def4e69)
-- [Clearvote](https://clearvote.info/)
-- [Jobfindr](https://github.com/jkru3/jobfindr) —this is currently setup personal use only, but if you’re interested in using this for yourself, [[contact|let's talk]] 🙂
-
 %% **TODO:**
 TODO:
 - random note + orphened note open

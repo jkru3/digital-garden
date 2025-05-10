@@ -4,8 +4,12 @@ alias: here
 > [!info] 🔥 open to work! 🔥
 > if you are a hiring manager, founder, or just a curious developer who has stumbled upon this page, welcome to my portfolio! I’m actively looking for work in the Seattle area. If interested in working together, feel free to reach out at [joseph.L.krueger@gmail.com](mailto:joseph.L.krueger@gmail.com)
  
-<h1><b>ongoing</b> projects<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR5azNjZXJicmd5bmF6N3ZoaWg5ZHhuNTlkcWxxYm5zZ3ppcGVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ciqpFeTIjGqBhl6rn9/giphy.gif" width="50"/>
-</h1>
+though I’m early career, I plan on specializing in **DevOps**, **Cloud Engineering**, and **Observability tools**. My longterm goal is to build infrastructure for ML, particularity infrastructure that makes it easier to understand what’s going on inside the black box, so that non-technical people can make better judgements about the technology that is displacing their work
+
+you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf)
+
+## things I’ve created
+
 
 ## Clearvote
 <span>
@@ -25,6 +29,7 @@ alias: here
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI" width="">
   <img src="https://img.shields.io/badge/GeoPandas-306998?logo=pandas&logoColor=white&style=for-the-badge" alt="GeoPandas" width="">
 </span>
+- [Clearvote](https://clearvote.info/)
 
 ## Financial Portfolio Rebalancer
 <span>
@@ -36,11 +41,15 @@ alias: here
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" width="">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes" width="">
 </span>
-
+[[technical analysis portfolio adjuster]]
 ## jobfindr
 <span>
   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" alt="LaTeX" width="">
 </span>
+- [Jobfindr](https://github.com/jkru3/jobfindr) —this is currently setup personal use only, but if you’re interested in using this for yourself, [[contact|let's talk]] 🙂
+
+## Twitter Engagement Maximizer
+[[social media engagement maximizer]]
 
 <h1><i>previous</i> projects<img src=https://media.giphy.com/media/ifSFik6ynNbwcotPDK/giphy.gif?cid=ecf05e479ry2no0qw4wooowszdiph47a0rulac0fcnjnyznt&ep=v1_stickers_related&rid=giphy.gif&ct=s width=100/></h1>
 
@@ -68,8 +77,14 @@ alias: here
 <span>
   <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge" alt="Spotify" width="">
 </span>
-
+- [everything always works out in the end](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=0RGh8qFtRQOqxshjBY7RDg&nd=1&dlsi=de78ec430def4e69)
 ## AutoDubs
 <span>
   <img src="https://img.shields.io/badge/ElevenLabs-161A38?logo=elevenlabs&logoColor=white&style=for-the-badge" alt="ElevenLabs" width="">
 </span>
+
+## Future ideas (will create someday, if time allows)
+- [[future urban sprawl predictor]]
+- [[art distribution project]]
+- [[reverse yelp]]
+- [[friend finder]]
