@@ -1,7 +1,7 @@
 ---
 alias: here
 ---
-> [!info] open to work! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwM2p2eHJqbG45YTA3OW5maTV5dzhocWNqcHMxOHlmMnoyenVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2asJ7V7HkcO8vkIDa/giphy.gif" width="35" style="vertical-align: middle; margin-bottom: 2px;" />
+> [!info] open to work! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwM2p2eHJqbG45YTA3OW5maTV5dzhocWNqcHMxOHlmMnoyenVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2asJ7V7HkcO8vkIDa/giphy.gif" width="25" />
 > if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my portfolio! I’m actively looking for work in the Seattle area. If interested in working together, feel free to reach out at <a href="mailto:joseph.L.krueger@gmail.com">joseph.L.krueger@gmail.com</a>
 
 though I’m early career, I plan on specializing in **DevOps**, **Cloud Engineering**, and **Observability tools**. My longterm goal is to build infrastructure for ML, particularity infrastructure that makes it easier to understand what’s going on inside the black box, so that non-technical people can make better judgements about the technology that is displacing their work
@@ -9,7 +9,8 @@ though I’m early career, I plan on specializing in **DevOps**, **Cloud Enginee
 you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf)
 
 ---
-# ongoing projects <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR5azNjZXJicmd5bmF6N3ZoaWg5ZHhuNTlkcWxxYm5zZ3ppcGVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ciqpFeTIjGqBhl6rn9/giphy.gif" width="100"/>
+# ongoing projects
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR5azNjZXJicmd5bmF6N3ZoaWg5ZHhuNTlkcWxxYm5zZ3ppcGVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ciqpFeTIjGqBhl6rn9/giphy.gif" width="100" style="vertical-align: middle; margin-bottom: 5px;" />
 
 ## Clearvote
 <span>

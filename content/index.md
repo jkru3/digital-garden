@@ -2,7 +2,7 @@
 title: welcome
 description: home page for Joey's digital garden
 ---
-> [!info] open to work! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwM2p2eHJqbG45YTA3OW5maTV5dzhocWNqcHMxOHlmMnoyenVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2asJ7V7HkcO8vkIDa/giphy.gif" width="35" style="vertical-align: middle; margin-bottom: 2px;" />
+> [!info] open to work! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwM2p2eHJqbG45YTA3OW5maTV5dzhocWNqcHMxOHlmMnoyenVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2asJ7V7HkcO8vkIDa/giphy.gif" width="25" />
 > if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my blog! You can check out my portfolio 👉 [[portfolio|here]] 👈
 
 
