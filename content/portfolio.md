@@ -44,6 +44,10 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes" width="">
 </span>
 
+**github link**
+
+GitHub link
+
 [[technical analysis portfolio adjuster]]
 
 ## jobfindr
@@ -65,33 +69,56 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 <span>
   <img src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=white&style=for-the-badge" alt="D3.js" width="">
   <img src="https://img.shields.io/badge/Vega-3B4252?logo=vega&logoColor=white&style=for-the-badge" alt="Vega" width="">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI" width="">
 </span>
 
 ![](https://www.youtube.com/watch?v=goHGTVUmz0M&t=14)
 
+a data visualization project on the topic of High Speed Rail in the US. I was responsible for 100\% of two of the visualizations
+- *travel modes*: is an intractable line graph made with D3 showing the coverage high-speed-rail provides when compared to car and air travel
+- *opinion board*: is a graphical representation of differing opinions on Reddit made with D3. I used GPT-4o to make a pipeline ingested web-scraped Reddit data, categorized the sentiments, and then decided on which sentiment was negative, neutral, and positive. This is an idea i’d like to expand on —being able to see how sentiment changes over time could be a really cool thing to visualize, especially for current events
+i also contributed to the last visualization, which was originally made with Vega and adapted by my teammates
+- project link
+- project repo
 
 
-## ProtoQA (Steve Harvey bot)
+## ProtoQA submission
 <span>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow" width="">
 </span>
+
+![image1](ProtoQA%20poster.jpeg) 
+
+a NLP research project submitted against the ProtoQA Common-sense reasoning benchmark
+- link to benchmark
+- link to code
+- link to write-up
 
 ## illustr**AI**tor
 <span>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" width="">
 </span>
 
+a hackathon project i made with [Elias Belzberg](https://github.com/EliasBelz). We won
+- link to [submission](https://devpost.com/software/illustraitor)
+- figma [mockup](https://www.figma.com/proto/OLfCv0SRFYGwTj4TATMBxO/IllustrAItor?node-id=2-5&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A5)
+- github [repo](https://github.com/jkru3/illustrAItor)
+
 ## everything always works out in the end
 <span>
   <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge" alt="Spotify" width="">
 </span>
 
-[everything always works out in the end](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=0RGh8qFtRQOqxshjBY7RDg&nd=1&dlsi=de78ec430def4e69)
+i spent years of my life devoted to writing, playing, and performing in the musical arts. This is what I have to show for it
+- link to [album](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=0RGh8qFtRQOqxshjBY7RDg&nd=1&dlsi=de78ec430def4e69)
 
 ## AutoDubs
 <span>
   <img src="https://img.shields.io/badge/ElevenLabs-161A38?logo=elevenlabs&logoColor=white&style=for-the-badge" alt="ElevenLabs" width="">
 </span>
+
+a project for a startup competition i made with [Elias Belzberg](https://github.com/EliasBelz). We didn’t win, but we learned a lot about the business side of launching a startup
+- github repo
 
 ---
 # future plans (may work on someday, if time allows)
@@ -101,3 +128,4 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 - [[art distribution project]]
 - [[reverse yelp]]
 - [[friend finder]]
+- opinion board (see the [[portfolio#*previous* projects|High Speed Rail project]])
