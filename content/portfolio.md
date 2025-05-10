@@ -1,14 +1,20 @@
 ---
 alias: here
 ---
-> [!info] 🔥 open to work! 🔥
-> if you are a hiring manager, founder, or just a curious developer who has stumbled upon this page, welcome to my portfolio! I’m actively looking for work in the Seattle area. If interested in working together, feel free to reach out at [joseph.L.krueger@gmail.com](mailto:joseph.L.krueger@gmail.com)
- 
+<div style="border-left: 4px solid #4d97ff; padding-left: 16px; margin: 16px 0; background-color: rgba(77, 151, 255, 0.1); padding: 1em;">
+  <p style="font-weight: bold; margin-top: 0;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwM2p2eHJqbG45YTA3OW5maTV5dzhocWNqcHMxOHlmMnoyenVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2asJ7V7HkcO8vkIDa/giphy.gif" width="35" style="vertical-align: middle; margin-bottom: 2px;" />
+    open to work! 
+  </p>
+  <p style="margin-bottom: 0;">if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my portfolio! I’m actively looking for work in the Seattle area. If interested in working together, feel free to reach out at <a href="mailto:joseph.L.krueger@gmail.com">joseph.L.krueger@gmail.com</a></p>
+</div>
+
 though I’m early career, I plan on specializing in **DevOps**, **Cloud Engineering**, and **Observability tools**. My longterm goal is to build infrastructure for ML, particularity infrastructure that makes it easier to understand what’s going on inside the black box, so that non-technical people can make better judgements about the technology that is displacing their work
 
 you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf)
 
-# ongoing projects <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR5azNjZXJicmd5bmF6N3ZoaWg5ZHhuNTlkcWxxYm5zZ3ppcGVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ciqpFeTIjGqBhl6rn9/giphy.gif" width="50"/>
+---
+# ongoing projects <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR5azNjZXJicmd5bmF6N3ZoaWg5ZHhuNTlkcWxxYm5zZ3ppcGVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ciqpFeTIjGqBhl6rn9/giphy.gif" width="100" style="vertical-align: middle; margin-bottom: 5px;" />
 
 ## Clearvote
 <span>
@@ -28,7 +34,8 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI" width="">
   <img src="https://img.shields.io/badge/GeoPandas-306998?logo=pandas&logoColor=white&style=for-the-badge" alt="GeoPandas" width="">
 </span>
-- [Clearvote](https://clearvote.info/)
+
+[Clearvote](https://clearvote.info/)
 
 ## financial portfolio rebalancer
 <span>
@@ -51,7 +58,8 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 ## Twitter Engagement Maximizer
 [[social media engagement maximizer]]
 
-# *previous* projects <img src="https://media.giphy.com/media/9AnlnxZ2kJ2yU682Gg/giphy.gif?cid=ecf05e47hng32xd2d4fmg4wn3iy2t0ouqww8f0eh1ybv770s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"/>
+---
+# *previous* projects <img src="https://media.giphy.com/media/9AnlnxZ2kJ2yU682Gg/giphy.gif?cid=ecf05e47hng32xd2d4fmg4wn3iy2t0ouqww8f0eh1ybv770s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" style="vertical-align: middle; margin-bottom: 5px;"/>
 
 ## High Speed Rail project
 <span>
@@ -77,13 +85,16 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 <span>
   <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge" alt="Spotify" width="">
 </span>
+
 - [everything always works out in the end](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=0RGh8qFtRQOqxshjBY7RDg&nd=1&dlsi=de78ec430def4e69)
+
 ## AutoDubs
 <span>
   <img src="https://img.shields.io/badge/ElevenLabs-161A38?logo=elevenlabs&logoColor=white&style=for-the-badge" alt="ElevenLabs" width="">
 </span>
 
-# future plans (may create someday, if time allows) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA2NWQ4cmRhZzEzZTB1bTVpdTI3YXhlNHBlZWhoamU5ZXYxNjM3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0YwHADEH90Mjii6qHV/giphy.gif" width="50"/>
+---
+# future plans (may work on someday, if time allows) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA2NWQ4cmRhZzEzZTB1bTVpdTI3YXhlNHBlZWhoamU5ZXYxNjM3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0YwHADEH90Mjii6qHV/giphy.gif" width="100" style="vertical-align: middle; margin-bottom: 5px;"/>
 
 - [[future urban sprawl predictor]]
 - [[art distribution project]]
