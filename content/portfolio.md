@@ -10,7 +10,7 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 
 ---
 # ongoing projects
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR5azNjZXJicmd5bmF6N3ZoaWg5ZHhuNTlkcWxxYm5zZ3ppcGVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ciqpFeTIjGqBhl6rn9/giphy.gif" width="100" style="vertical-align: middle; margin-bottom: 5px;" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR5azNjZXJicmd5bmF6N3ZoaWg5ZHhuNTlkcWxxYm5zZ3ppcGVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ciqpFeTIjGqBhl6rn9/giphy.gif" width="100" style="float: right; margin-top: -50px;" />
 
 ## Clearvote
 <span>
@@ -55,7 +55,7 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 [[social media engagement maximizer]]
 
 ---
-# *previous* projects <img src="https://media.giphy.com/media/9AnlnxZ2kJ2yU682Gg/giphy.gif?cid=ecf05e47hng32xd2d4fmg4wn3iy2t0ouqww8f0eh1ybv770s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" style="vertical-align: middle; margin-bottom: 5px;"/>
+# *previous* projects <img src="https://media.giphy.com/media/9AnlnxZ2kJ2yU682Gg/giphy.gif?cid=ecf05e47hng32xd2d4fmg4wn3iy2t0ouqww8f0eh1ybv770s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" style="float: right; margin-top: -50px;"/>
 
 ## High Speed Rail project
 <span>
@@ -90,7 +90,8 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 </span>
 
 ---
-# future plans (may work on someday, if time allows) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA2NWQ4cmRhZzEzZTB1bTVpdTI3YXhlNHBlZWhoamU5ZXYxNjM3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0YwHADEH90Mjii6qHV/giphy.gif" width="100" style="vertical-align: middle; margin-bottom: 5px;"/>
+# future plans (may work on someday, if time allows)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA2NWQ4cmRhZzEzZTB1bTVpdTI3YXhlNHBlZWhoamU5ZXYxNjM3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0YwHADEH90Mjii6qHV/giphy.gif" width="100" style="float: right; margin-top: -50px;"/>
 
 - [[future urban sprawl predictor]]
 - [[art distribution project]]
