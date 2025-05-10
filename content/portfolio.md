@@ -1,8 +1,8 @@
 ---
 alias: here
 ---
-> [!info] open to work! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwM2p2eHJqbG45YTA3OW5maTV5dzhocWNqcHMxOHlmMnoyenVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2asJ7V7HkcO8vkIDa/giphy.gif" width="25" />
-> if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my portfolio! I’m actively looking for work in the Seattle area. If interested in working together, feel free to reach out at <a href="mailto:joseph.L.krueger@gmail.com">joseph.L.krueger@gmail.com</a>
+> [!info] open to work! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwM2p2eHJqbG45YTA3OW5maTV5dzhocWNqcHMxOHlmMnoyenVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2asJ7V7HkcO8vkIDa/giphy.gif" width="35" style="vertical-align: middle; position: relative; top: -2px;" />
+> if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my portfolio! I'm actively looking for work in the Seattle area. If interested in working together, feel free to reach out at <a href="mailto:joseph.L.krueger@gmail.com">joseph.L.krueger@gmail.com</a>
 
 though I’m early career, I plan on specializing in **DevOps**, **Cloud Engineering**, and **Observability tools**. My longterm goal is to build infrastructure for ML, particularity infrastructure that makes it easier to understand what’s going on inside the black box, so that non-technical people can make better judgements about the technology that is displacing their work
 
@@ -55,7 +55,7 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 [[social media engagement maximizer]]
 
 ---
-# *previous* projects <img src="https://media.giphy.com/media/9AnlnxZ2kJ2yU682Gg/giphy.gif?cid=ecf05e47hng32xd2d4fmg4wn3iy2t0ouqww8f0eh1ybv770s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" style="float: right; margin-top: -50px;"/>
+# *previous* projects <img src="https://media.giphy.com/media/9AnlnxZ2kJ2yU682Gg/giphy.gif?cid=ecf05e47hng32xd2d4fmg4wn3iy2t0ouqww8f0eh1ybv770s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" style="float: right; margin-top: -25px;"/>
 
 ## High Speed Rail project
 <span>
