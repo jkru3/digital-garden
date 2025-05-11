@@ -15,7 +15,6 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 ---
 ## Clearvote
 <span>
-  <img src="https://img.shields.io/badge/AWS_Route_53-8C4FFF?logo=amazonroute53&logoColor=white&style=for-the-badge" alt="AWS Route 53" width="">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" width="">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" width="">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" width="">
@@ -27,6 +26,7 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
   <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?logo=aws-amplify&logoColor=white&style=for-the-badge" alt="AWS Amplify" width="">
   <img src="https://img.shields.io/badge/AWS_RDS-527FFF?logo=amazon-rds&logoColor=white&style=for-the-badge" alt="AWS RDS" width="">
   <img src="https://img.shields.io/badge/AWS_DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white&style=for-the-badge" alt="AWS DynamoDB" width=""> <img src="https://img.shields.io/badge/AWS_IAM-DD344C?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS IAM" width="">
+  <img src="https://img.shields.io/badge/AWS_Route_53-8C4FFF?logo=amazonroute53&logoColor=white&style=for-the-badge" alt="AWS Route 53" width="">
   <img src="https://img.shields.io/badge/Mapbox-000000?logo=mapbox&logoColor=white&style=for-the-badge" alt="Mapbox" width="">
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI" width="">
   <img src="https://img.shields.io/badge/GeoPandas-306998?logo=pandas&logoColor=white&style=for-the-badge" alt="GeoPandas" width="">

@@ -24,8 +24,10 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Forum",
-        body: "Source Sans Pro",
+        // handwritten: "Caveat", "Merienda", "Shadows Into Light", 
+        // retro: "Courier Prime", "Space Mono", "Righteous", "Press Start 2P",
+        header: "Space Mono",
+        body: "IBM Plex Sans",
         code: "IBM Plex Mono",
       },
       colors: {
