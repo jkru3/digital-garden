@@ -4,7 +4,7 @@ alias: here
 > [!tip] open to work! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwM2p2eHJqbG45YTA3OW5maTV5dzhocWNqcHMxOHlmMnoyenVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2asJ7V7HkcO8vkIDa/giphy.gif" width="35" style="vertical-align: middle; position: relative; top: -2px;" />
 > if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my portfolio! I'm actively looking for work in the Seattle area. If interested in working together, feel free to reach out at <a href="mailto:joseph.L.krueger@gmail.com">joseph.L.krueger@gmail.com</a>
 
-though I’m early career, I plan on specializing in **DevOps**, **Cloud Engineering**, and **Observability tools**. My longterm goal is to build infrastructure for ML, particularity infrastructure that makes it easier to understand what’s going on inside the black box, so that non-technical people can make better judgements about the technology that is displacing their work
+though i’m early in my career, i plan on specializing in **DevOps**, **Cloud Engineering**, and **Observability tools**. My longterm goal is to build infrastructure for ML, particularity infrastructure that makes it easier to understand what’s going on inside the black box, so that non-technical people can make better judgements about the technology that is displacing their work
 
 you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf), but this is the place to be if you want to see results
 
@@ -15,21 +15,21 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 ---
 ## Clearvote
 <span>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" width="">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" width="">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" width="">
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask" width="">
-  <img src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" width="">
-  <img src="https://img.shields.io/badge/Next.js-000000?&logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next" width="">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" width="">
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?logo=aws-lambda&logoColor=white&style=for-the-badge" alt="AWS Lambda" width="">
-  <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?logo=aws-amplify&logoColor=white&style=for-the-badge" alt="AWS Amplify" width="">
-  <img src="https://img.shields.io/badge/AWS_RDS-527FFF?logo=amazon-rds&logoColor=white&style=for-the-badge" alt="AWS RDS" width="">
-  <img src="https://img.shields.io/badge/AWS_DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white&style=for-the-badge" alt="AWS DynamoDB" width=""> <img src="https://img.shields.io/badge/AWS_IAM-DD344C?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS IAM" width="">
-  <img src="https://img.shields.io/badge/AWS_Route_53-8C4FFF?logo=amazonroute53&logoColor=white&style=for-the-badge" alt="AWS Route 53" width="">
-  <img src="https://img.shields.io/badge/Mapbox-000000?logo=mapbox&logoColor=white&style=for-the-badge" alt="Mapbox" width="">
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI" width="">
-  <img src="https://img.shields.io/badge/GeoPandas-306998?logo=pandas&logoColor=white&style=for-the-badge" alt="GeoPandas" width="">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" width="">
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" width="">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" width="">
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask" width="">
+<img src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" width="">
+<img src="https://img.shields.io/badge/Next.js-000000?&logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next" width="">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" width="">
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?logo=aws-lambda&logoColor=white&style=for-the-badge" alt="AWS Lambda" width="">
+<img src="https://img.shields.io/badge/AWS_Amplify-FF9900?logo=aws-amplify&logoColor=white&style=for-the-badge" alt="AWS Amplify" width="">
+<img src="https://img.shields.io/badge/AWS_RDS-527FFF?logo=amazon-rds&logoColor=white&style=for-the-badge" alt="AWS RDS" width="">
+<img src="https://img.shields.io/badge/AWS_DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white&style=for-the-badge" alt="AWS DynamoDB" width=""> <img src="https://img.shields.io/badge/AWS_IAM-DD344C?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS IAM" width="">
+<img src="https://img.shields.io/badge/AWS_Route_53-8C4FFF?logo=amazonroute53&logoColor=white&style=for-the-badge" alt="AWS Route 53" width="">
+<img src="https://img.shields.io/badge/Mapbox-000000?logo=mapbox&logoColor=white&style=for-the-badge" alt="Mapbox" width="">
+<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI" width="">
+<img src="https://img.shields.io/badge/GeoPandas-306998?logo=pandas&logoColor=white&style=for-the-badge" alt="GeoPandas" width="">
 </span>
 
 - **app [link](https://clearvote.info/)**
@@ -40,29 +40,37 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 ![[clearvote banner.jpeg]]
 
 provides over 3000 users with side-by-side comparisons of election candidates. Aims transcend party lines and provide prospective voters with a new way to visualize political intentions. Co-founded with [Anaya Pandit](https://github.com/anayap0)
+### TODOs
+- [ ] setup Clearvote for 2025 Washington State local election
 
 ---
 ## financial portfolio rebalancer
 <span>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" width="">
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" width="">
-  <img src="https://img.shields.io/badge/Hive-FDEE21?logo=apachehive&logoColor=black&style=for-the-badge" alt="Hive" width="">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" width="">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" width="">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" width="">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes" width="">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" width=""/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" width=""/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" width="">
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" width="">
+<img src="https://img.shields.io/badge/Hive-FDEE21?logo=apachehive&logoColor=black&style=for-the-badge" alt="Hive" width="">
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" width="">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" width="">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" width="">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes" width="">
 </span>
 
-- **app link (trade-dashboard)** TODO: working on this rn
+- **desktop app [link](https://jkru3.github.io/financial-portfolio-rebalancer/)** (front-end only, not connected to *auto-trader* yet)
 - GitHub [repo](https://github.com/jkru3/financial-portfolio-rebalancer/)
 - some [[technical analysis portfolio adjuster|documentation]]
 
-building an app that trains models to make time-series predictions, which it can run through a simple application to provides suggestions on how to trade as a long-term investment strategy. This is split into 3 parts:
+building an app that trains time-series models on stock data, which it can run through a simple mobile application to provide suggestions on how to trade as a long-term investment strategy. This is split into 3 parts:
 1. *trade-dashboard*: a front-end
 2. *auto-trader*: uses a simple EMA algorithm to predict which stocks to invest in
 3. *time-series-forecast*: TBD
 
-i’m working on integrating parts 1 and 2 to work with each other. Part 3 is not started, and i’m aiming to leverage that as a learning project to learn Kubernetes and learn how to setup distributed training pipelines
+### TODOs
+- [ ] connect *trade-dashboard* to *auto-trader*
+	- [ ] figure out a way to test with mock data
+	- [ ] design a simple db for the *auto-trader*
+- [ ] start work on *time-series-forecast*
 
 ---
 ## Jobfindr
@@ -79,7 +87,16 @@ a crude tool i made to help me
 1. tailor resumes to specific job postings
 2. notify me whenever a company career page i’m interested in adds a new role
 
-right now, it’s finicky and only setup for personal use, but when i’ve refined it more, i’m interested in turning this into a simple open-source tool anyone can use 
+right now, it’s finicky and only setup for personal use, but when i’ve refined it more, i’m interested in turning this into a simple open-source tool anyone can use
+
+### TODOs
+- [ ] resumes
+	- [ ] compile .tex files without an extension
+	- [ ] make a crude UI
+- [ ] *alerts*
+	- [ ] print the diff of changes in career pages for
+	- [ ] make a crude UI
+	- [ ] reassess concurrency usage
 
 ---
 ## X/Twitter engagement maximizer
@@ -91,6 +108,9 @@ right now, it’s finicky and only setup for personal use, but when i’ve refin
 - some [[social media engagement maximizer|documentation]]
 
 a web scraper for twitter that logs into your account and figures out who has been engaging with your posts. It then creates a curated list of accounts consisting of only accounts who have engaged with you the most
+
+### TODOs
+- [ ] MVP
 
 ---
 # *previous* projects

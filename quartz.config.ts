@@ -32,28 +32,28 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#fdf6f0",         // soft parchment
-          lightgray: "#e2dedb",     // pale stone
-          gray: "#a3b3b0",          // faded teal-gray
-          darkgray: "#486461",      // deep desaturated teal
-          dark: "#2f3f3d",          // charcoal teal
-          secondary: "#d9885b",     // vintage sunset orange
-          tertiary: "#7ea8a1",      // dusty teal
-          highlight: "rgba(217, 136, 91, 0.15)", // orange haze
-          textHighlight: "#ffdca388",           // amber glow
+          light: "#fdf6f0",
+          lightgray: "#e2dedb",
+          gray: "#a3b3b0",
+          darkgray: "#2a2e2f",          // near-black slate, great contrast on light bg
+          dark: "#2f3f3d",
+          secondary: "#d9885b",
+          tertiary: "#7ea8a1",
+          highlight: "rgba(217, 136, 91, 0.15)",
+          textHighlight: "#ffdca388",
         },
         darkMode: {
-          light: "#1c2423",         // deep teal-black
-          lightgray: "#3d4a48",     // muted coal
-          gray: "#7e918d",          // fogged green-gray
-          darkgray: "#e3dcd3",      // pale tan
-          dark: "#f6f2ed",          // light cream
-          secondary: "#e29b74",     // soft sunset orange
-          tertiary: "#88b6b1",      // light vintage teal
-          highlight: "rgba(226, 155, 116, 0.15)", // warm overlay
-          textHighlight: "#ffdca388",            // pale amber
-        },
-      }
+          light: "#111c25",
+          lightgray: "#2a3b4d",
+          gray: "#4b657d",
+          darkgray: "#e2e8ea",          // light gray-blue for legibility on dark bg
+          dark: "#f4ede9",
+          secondary: "#5ea0d2",
+          tertiary: "#e3a77c",
+          highlight: "rgba(227, 167, 124, 0.12)",
+          textHighlight: "#ffc78e88",
+        }
+      }       
     },
   },
   plugins: {
