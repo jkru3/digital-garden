@@ -2,6 +2,8 @@
 tags:
   - freeform
   - documentation
+aliases:
+  - documentation
 ---
 this is an old idea for an existing project that is due for a revisit and will probably get one soon
 # TODO: Beta calculator

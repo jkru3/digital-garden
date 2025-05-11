@@ -9,7 +9,6 @@ description: home page for Joey's digital garden
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFjdDNqcGVlcXpzaGYxcnNvamFrbGVzODN2NHJ0cjM1ZzBwZW56YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IydFHF2WeTmVMBi/giphy.gif" style="width: 100%; height: 185px; object-fit: cover; object-position: center;">
 
 
-
 hi, i’m [[about me|Joey]], and i’m a 29 year old developer based out of Washington State, USA
 
 engineers are at their best when they understand complexity in depth. Artists are at their best when the depth of their process defies understanding. I aspire to straddle both vocations, and I’ve built [apps](https://clearvote.info/) and written [albums](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=0RGh8qFtRQOqxshjBY7RDg) exploring that

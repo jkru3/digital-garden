@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - documentation
 tags:
   - freeform
   - documentation
