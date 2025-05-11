@@ -154,44 +154,6 @@ export default (() => {
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
 
-    // Duck callout custom styles
-    // TODO: this is bad practiec, should be moved to a separate file
-    // TODO: we should also be able to pass in an image and color for custom callouts
-    const duckCalloutStyles = `
-      .callout[data-callout="duck"] {
-        --callout-border: 5px solid rgba(147, 112, 219, 0.5);
-        --callout-background: rgba(147, 112, 219, 0.1);
-        
-        border-left: var(--callout-border);
-        background-color: var(--callout-background);
-      }
-      
-      .callout[data-callout="duck"] .callout-title {
-        display: flex;
-        align-items: center;
-      }
-      
-      .callout[data-callout="duck"] .callout-title::before {
-        content: "";
-        background-image: url("/static/images/duck.gif");
-        background-size: contain;
-        background-repeat: no-repeat;
-        display: block;
-        height: 40px;
-        width: 40px;
-        margin-right: 8px;
-        flex-shrink: 0;
-      }
-      
-      .callout[data-callout="duck"] .callout-icon {
-        display: none;
-      }
-      
-      .callout[data-callout="duck"] .callout-content {
-        display: block;
-        margin-top: -8px;
-      }
-    `
 
     return (
       <head>
@@ -241,8 +203,6 @@ export default (() => {
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
           
-        {/* Add the custom duck callout styles */}
-        <style>{duckCalloutStyles}</style>
       </head>
     )
   }

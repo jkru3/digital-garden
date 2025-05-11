@@ -28,39 +28,3 @@ img[src$="#right--50"] {
         margin-left: 0;
     }
 }
-
-// TODO: change callout title color
-body .callout[data-callout="duck"] {
-    --callout-border: 5px solid rgba(147, 112, 219, 0.5);
-    --callout-background: rgba(147, 112, 219, 0.1);
-    
-    border-left: var(--callout-border) !important;
-    background-color: var(--callout-background) !important;
-    
-    .callout-title {
-        display: flex !important;
-        align-items: center !important;
-        
-        &::before {
-            content: "" !important;
-            /* Make sure the path is correct relative to the built CSS file */
-            background-image: url("attachments/duck.gif") !important;
-            background-size: contain !important;
-            background-repeat: no-repeat !important;
-            display: block !important;
-            height: 40px !important;
-            width: 40px !important;
-            margin-right: 8px !important;
-            flex-shrink: 0 !important;
-        }
-    }
-    
-    .callout-icon {
-        display: none !important;
-    }
-    
-    .callout-content {
-        display: block !important;
-        margin-top: -8px !important;
-    }
-}
