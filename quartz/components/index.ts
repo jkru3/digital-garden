@@ -1,3 +1,4 @@
+import { Link } from 'mdast';
 import Content from "./pages/Content"
 import TagContent from "./pages/TagContent"
 import FolderContent from "./pages/FolderContent"
@@ -20,7 +21,7 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
-import NavBar from "./NavBar" // added by jkru3
+import LinksHeader from "./LinksHeader"
 
 export {
   ArticleTitle,
@@ -45,5 +46,5 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
-  NavBar, // added by jkru3
+  LinksHeader,
 }

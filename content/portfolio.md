@@ -113,6 +113,37 @@ a web scraper for twitter that logs into your account and figures out who has be
 - [ ] MVP
 
 ---
+
+## jkru3.xyz
+
+### content
+- [ ] better [index page](https://ellie.wtf/)
+- [ ] more cohesive contact info
+- [ ] connect writings
+### formatting
+- [ ] find a way to make the duck look nicer in the callout
+- [ ] minimize images in portfolio
+### styling
+- [ ] slow transition [light/darkmode](https://turntrout.com/welcome)
+- [ ] hide [sides](https://notes.yxy.ninja/)
+- [ ] spacing of badges
+- [ ] spacing of new-lines
+- [ ] figure out .scss for LinksHeader
+- [ ] LinksHeader should pass in parameters
+- [ ] LinksHeader rename to → NavBar
+- [ ] hover-over tags
+- [ ] highlight vistited links
+### personal
+- [ ] remove quartz banner
+- [ ] old windows [cursors](https://www.pmcf.xyz/)
+- [ ] unique branding
+- [ ] aesthetic [text dividers](https://quartz.eilleeenz.com/)
+### technical
+- [ ] setup [commenting](https://www.chadly.net/)
+- [ ] find a way to setup view counts
+- [ ] setup [newsletters](https://brandonkboswell.com/)
+
+---
 # *previous* projects
 <img src="https://media.giphy.com/media/9AnlnxZ2kJ2yU682Gg/giphy.gif?cid=ecf05e47hng32xd2d4fmg4wn3iy2t0ouqww8f0eh1ybv770s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" style="float: right; margin-top: -50px;"/>
 
