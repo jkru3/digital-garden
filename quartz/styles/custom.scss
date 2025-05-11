@@ -30,38 +30,37 @@ img[src$="#right--50"] {
 }
 
 // TODO: change callout title color
-.callout[data-callout="duck"] {
+body .callout[data-callout="duck"] {
     --callout-border: 5px solid rgba(147, 112, 219, 0.5);
     --callout-background: rgba(147, 112, 219, 0.1);
     
-    border-left: var(--callout-border);
-    background-color: var(--callout-background);
+    border-left: var(--callout-border) !important;
+    background-color: var(--callout-background) !important;
     
     .callout-title {
-        display: flex;
-        align-items: center;
+        display: flex !important;
+        align-items: center !important;
         
         &::before {
-            content: "";
-            background-image: url("attachments/duck.gif");
-            background-size: contain;
-            background-repeat: no-repeat;
-            display: block;
-            height: 40px;
-            width: 40px;
-            margin-right: 8px;
-            flex-shrink: 0;
+            content: "" !important;
+            /* Make sure the path is correct relative to the built CSS file */
+            background-image: url("attachments/duck.gif") !important;
+            background-size: contain !important;
+            background-repeat: no-repeat !important;
+            display: block !important;
+            height: 40px !important;
+            width: 40px !important;
+            margin-right: 8px !important;
+            flex-shrink: 0 !important;
         }
     }
     
-    // Hide any default icon that might be there
     .callout-icon {
-        display: none;
+        display: none !important;
     }
     
-    // Fix for content after the first line
     .callout-content {
-        display: block;
-        margin-top: -8px;
+        display: block !important;
+        margin-top: -8px !important;
     }
 }
