@@ -32,28 +32,28 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fdf6f0",         // soft parchment
+          lightgray: "#e2dedb",     // pale stone
+          gray: "#a3b3b0",          // faded teal-gray
+          darkgray: "#486461",      // deep desaturated teal
+          dark: "#2f3f3d",          // charcoal teal
+          secondary: "#d9885b",     // vintage sunset orange
+          tertiary: "#7ea8a1",      // dusty teal
+          highlight: "rgba(217, 136, 91, 0.15)", // orange haze
+          textHighlight: "#ffdca388",           // amber glow
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1c2423",         // deep teal-black
+          lightgray: "#3d4a48",     // muted coal
+          gray: "#7e918d",          // fogged green-gray
+          darkgray: "#e3dcd3",      // pale tan
+          dark: "#f6f2ed",          // light cream
+          secondary: "#e29b74",     // soft sunset orange
+          tertiary: "#88b6b1",      // light vintage teal
+          highlight: "rgba(226, 155, 116, 0.15)", // warm overlay
+          textHighlight: "#ffdca388",            // pale amber
         },
-      },
+      }
     },
   },
   plugins: {
