@@ -2,9 +2,11 @@
 title: welcome
 description: home page for Joey's digital garden
 ---
-> [!tip] open to work! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwM2p2eHJqbG45YTA3OW5maTV5dzhocWNqcHMxOHlmMnoyenVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2asJ7V7HkcO8vkIDa/giphy.gif" width="35" style="vertical-align: middle; position: relative; top: -2px;" />
-> if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my personal website!
-> You can check out my portfolio 👉 [[portfolio|here]] 👈
+ > [!duck] open to work!
+ > 
+> if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my personal website! 
+> 
+> You can check out my portfolio 👉 [[portfolio|here]] 👈 
 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFjdDNqcGVlcXpzaGYxcnNvamFrbGVzODN2NHJ0cjM1ZzBwZW56YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IydFHF2WeTmVMBi/giphy.gif" style="width: 100%; height: 185px; object-fit: cover; object-position: center;">
@@ -41,7 +43,7 @@ As Jung once said: ![[nuggets of wisdom#^god-Carl-Jung]]
 ![](Henry%20David%20Thoreau.avif)
 ![[nuggets of wisdom#^Henry-David-Thoreau]]
 ![](David%20Foster%20Wallace.jpg)
-![](rumi.jpg#left--small)![](bob%20marley.avif#right--small)
+![](rumi.jpg#left--50)![](bob%20marley.avif#right--50)
 
 
 

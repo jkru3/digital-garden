@@ -1,8 +1,8 @@
 ---
 alias: here
 ---
-> [!tip] open to work! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwM2p2eHJqbG45YTA3OW5maTV5dzhocWNqcHMxOHlmMnoyenVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2asJ7V7HkcO8vkIDa/giphy.gif" width="35" style="vertical-align: middle; position: relative; top: -2px;" />
-> if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my portfolio! I'm actively looking for work in the Seattle area. If interested in working together, feel free to reach out at <a href="mailto:joseph.L.krueger@gmail.com">joseph.L.krueger@gmail.com</a>
+> [!duck] open to work!
+> if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my portfolio! I'm actively looking for work in the Seattle area. If interested in working together, feel free to reach out at [joseph.L.krueger(at)gmail.com](mailto:joseph.L.krueger@gmail.com?subject=hello%20from%20jkru3%20dot%20xyz)
 
 though i’m early in my career, i plan on specializing in **DevOps**, **Cloud Engineering**, and **Observability tools**. My longterm goal is to build infrastructure for ML, particularity infrastructure that makes it easier to understand what’s going on inside the black box, so that non-technical people can make better judgements about the technology that is displacing their work
 
@@ -32,13 +32,13 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 <img src="https://img.shields.io/badge/GeoPandas-306998?logo=pandas&logoColor=white&style=for-the-badge" alt="GeoPandas" width="">
 </span>
 
+![](clearvote%20banner.jpeg#left--50)
+<br>
 - **app [link](https://clearvote.info/)**
 - front-end [repo](https://github.com/clear-vote/frontend)
 - precinct-mapper [repo](https://github.com/clear-vote/precinct-mapper) (how we map user coordinates to geodata)
 - AI pipeline and orchestrator ~~repo~~ (we can’t share this, sorry 🤫)
-
-![[clearvote banner.jpeg]]
-
+<br clear="all">
 provides over 3000 users with side-by-side comparisons of election candidates. Aims transcend party lines and provide prospective voters with a new way to visualize political intentions. Co-founded with [Anaya Pandit](https://github.com/anayap0)
 ### TODOs
 - [ ] setup Clearvote for 2025 Washington State local election
@@ -79,9 +79,8 @@ building an app that trains time-series models on stock data, which it can run t
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" width="">
 </span>
 
+![](jobfindr%20resumes.jpeg#right--50)
 - GitHub [repo](https://github.com/jkru3/jobfindr)
-
-![[jobfindr resumes.jpeg]]
 
 a crude tool i made to help me
 1. tailor resumes to specific job postings
@@ -121,8 +120,8 @@ a web scraper for twitter that logs into your account and figures out who has be
 - [ ] more cohesive contact info
 - [ ] connect writings
 ### formatting
-- [ ] find a way to make the duck look nicer in the callout
-- [ ] minimize images in portfolio
+- [x] find a way to make the duck look nicer in the callout
+- [x] minimize images in portfolio
 ### styling
 - [ ] slow transition [light/darkmode](https://turntrout.com/welcome)
 - [ ] hide [sides](https://notes.yxy.ninja/)
@@ -187,13 +186,14 @@ a hackathon project i made with [Elias Belzberg](https://github.com/EliasBelz). 
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face" width="">
 </span>
 
+
+an NLP research project submitted against the ProtoQA common-sense reasoning benchmark
+![image1](ProtoQA%20poster.jpeg#left--50)
+<br>
+<br>
 - link to [write-up](https://jkru3.github.io/resumes/assets/research_submissions/NLP_Final_Project.pdf)
 - link to [benchmark leaderboard](https://leaderboard.allenai.org/protoqa/submissions/public)
 - link to [code](https://colab.research.google.com/drive/16hLsMh75-CQ52nnpXu8K7BjRvn8hqhMQ?usp=sharing)
-
-![image1](ProtoQA%20poster.jpeg) 
-
-an NLP research project submitted against the ProtoQA Common-sense reasoning benchmark
 
 ---
 ## everything always works out in the end
@@ -201,9 +201,11 @@ an NLP research project submitted against the ProtoQA Common-sense reasoning ben
   <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge" alt="Spotify" width="">
 </span>
 
-- **link to [album](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=0RGh8qFtRQOqxshjBY7RDg&nd=1&dlsi=de78ec430def4e69)**
+![](album%20art.jpg#right--50)
 
-![[album art.jpg]]
+<br>
+
+- **link to [album](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=0RGh8qFtRQOqxshjBY7RDg&nd=1&dlsi=de78ec430def4e69)**
 
 i spent years of my life devoted to writing, playing, and performing in the musical arts. This is what I have to show for it
 

@@ -1,3 +1,67 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+img[src$="#left--50"] {
+    vertical-align: top;
+    float: left;
+    max-width: 50%;
+    margin-right: 2rem;
+    // margin-bottom: 1rem;
+}
+
+img[src$="#right--50"] {
+    vertical-align: top;
+    float: right;
+    max-width: 50%;
+    margin-left: 2rem;
+    // margin-bottom: 1rem;
+}
+
+// tip: use <br clear="all"> to clear floats
+
+// TODO: change max-width to $mobile
+@media screen and (max-width: 800px) {
+    img[src$="#left--50"],
+    img[src$="#right--50"] {
+        float: none;
+        max-width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
+
+// TODO: change callout title color
+.callout[data-callout="duck"] {
+    --callout-border: 5px solid rgba(147, 112, 219, 0.5);
+    --callout-background: rgba(147, 112, 219, 0.1);
+    
+    border-left: var(--callout-border);
+    background-color: var(--callout-background);
+    
+    .callout-title {
+        display: flex;
+        align-items: center;
+        
+        &::before {
+            content: "";
+            background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhwM2p2eHJqbG45YTA3OW5maTV5dzhocWNqcHMxOHlmMnoyenVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2asJ7V7HkcO8vkIDa/giphy.gif");
+            background-size: contain;
+            background-repeat: no-repeat;
+            display: block;
+            height: 40px;
+            width: 40px;
+            margin-right: 8px;
+            flex-shrink: 0;
+        }
+    }
+    
+    // Hide any default icon that might be there
+    .callout-icon {
+        display: none;
+    }
+    
+    // Fix for content after the first line
+    .callout-content {
+        display: block;
+        margin-top: -8px;
+    }
+}
