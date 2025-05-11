@@ -3,7 +3,7 @@ alias: here
 ---
 > [!duck] open to work!
 > if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my portfolio! I'm actively looking for work in the Seattle area. If interested in working together, feel free to reach out at **joseph.L.krueger(at)gmail.com**
-> %% [joseph.L.krueger(at)gmail.com](mailto:joseph.L.krueger@gmail.com?subject=hello%20from%20jkru3%20dot%20xyz) %%
+
 
 though i’m early in my career, i plan on specializing in **DevOps**, **Cloud Engineering**, and **Observability tools**. My longterm goal is to build infrastructure for ML, particularity infrastructure that makes it easier to understand what’s going on inside the black box, so that non-technical people can make better judgements about the technology that is displacing their work
 
