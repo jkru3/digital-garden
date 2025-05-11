@@ -34,12 +34,14 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 </span>
 
 ![](clearvote%20banner.jpeg#left--50)
-<br>
+
 - **app [link](https://clearvote.info/)**
 - front-end [repo](https://github.com/clear-vote/frontend)
 - precinct-mapper [repo](https://github.com/clear-vote/precinct-mapper) (how we map user coordinates to geodata)
-- AI pipeline and orchestrator ~~repo~~ (we can’t share this, sorry 🤫)
+- LLM pipeline and orchestrator ~~repo~~ (we can’t share this yet, sorry 🤫)
+
 <br clear="all">
+
 provides over 3000 users with side-by-side comparisons of election candidates. Aims transcend party lines and provide prospective voters with a new way to visualize political intentions. Co-founded with [Anaya Pandit](https://github.com/anayap0)
 ### TODOs
 - [ ] setup Clearvote for 2025 Washington State local election
@@ -190,11 +192,12 @@ a hackathon project i made with [Elias Belzberg](https://github.com/EliasBelz). 
 
 an NLP research project submitted against the ProtoQA common-sense reasoning benchmark
 ![image1](ProtoQA%20poster.jpeg#left--50)
-<br>
-<br>
+
 - link to [write-up](https://jkru3.github.io/resumes/assets/research_submissions/NLP_Final_Project.pdf)
 - link to [benchmark leaderboard](https://leaderboard.allenai.org/protoqa/submissions/public)
 - link to [code](https://colab.research.google.com/drive/16hLsMh75-CQ52nnpXu8K7BjRvn8hqhMQ?usp=sharing)
+
+<br clear="all">
 
 ---
 ## everything always works out in the end
@@ -204,11 +207,11 @@ an NLP research project submitted against the ProtoQA common-sense reasoning ben
 
 ![](album%20art.jpg#right--50)
 
-<br>
-
 - **link to [album](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=0RGh8qFtRQOqxshjBY7RDg&nd=1&dlsi=de78ec430def4e69)**
 
 i spent years of my life devoted to writing, playing, and performing in the musical arts. This is what I have to show for it
+
+<br clear="all">
 
 %% ## AutoDubs
 <span>
