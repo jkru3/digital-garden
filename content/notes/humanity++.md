@@ -18,7 +18,7 @@ this is the first step to overriding your natural dispositions, which are almost
 - understand the [[energy contagion|contagiousness of energy]] 
 - pursue things you know you have [[passion]] for. Explore and commit to things you are not sure if you have [[passion]] for or not, but if you later find a way out of a subject that bores you leave as soon as is convenient
 	- no matter what you are obligated to do by commitment, be consistent with the things you have [[passion]] for
-- you must unbuffer your intellectual and artistic impulses if either is to be explored with enough of a degree of non-seriousness for it to be worthwhile
+- you must un-buffer your intellectual and artistic impulses if either is to be explored with enough of a degree of non-seriousness for it to be worthwhile
 ## 2. learn how to take **agency**
 taking agency is crucial to staying in business and shaping your own values
 - give yourself hope. hope puts you at the doorway of opportunity so you can catch it when it comes in. Hope is inner strength. You can’t have agency without hope
@@ -175,8 +175,9 @@ treat your friends well. Building a community of people you care about will set 
 - show random acts of appreciation/admiration/kindness
 	- especially for those who are easiest to take for granted (friends, peers, and **family**)
 - [[love]]
-## 7. learn what matters (dhamma, god, love —whatever you want to call it)
-bring love into your life
+## 7. live with integrity
+bring love into your life. Whatever that means to you —dhamma, god, compassion, etc.
+- [[money#what is the use of money?]]
 - life has a rhythm to it that [[obsession]] can take you out of if you allow it to
 - focus on the [[being a generalist]] philosophy
 - respect randomness. Appreciate what comes to you. Things don’t have to happen for a reason for them to have meaning

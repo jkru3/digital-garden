@@ -43,6 +43,7 @@ you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE
 <br clear="all">
 
 provides over 3000 users with side-by-side comparisons of election candidates. Aims transcend party lines and provide prospective voters with a new way to visualize political intentions. Co-founded with [Anaya Pandit](https://github.com/anayap0)
+
 ### TODOs
 - [ ] setup Clearvote for 2025 Washington State local election
 
@@ -121,7 +122,9 @@ a web scraper for twitter that logs into your account and figures out who has be
 ### content
 - [x] better [index page](https://ellie.wtf/)
 - [x] more cohesive contact info
-- [ ] connect writings
+- [ ] dropdown TODOs
+- [ ] add a work section
+- [ ] connect old writings
 ### formatting
 - [x] find a way to make the duck look nicer in the callout
 - [x] minimize images in portfolio

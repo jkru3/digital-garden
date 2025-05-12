@@ -7,7 +7,7 @@ description: home page for Joey's digital garden
  > 
 > if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my personal website! 
 > 
-> You can check out my portfolio 👉 [[portfolio|here]] 👈 
+> you can check out my portfolio 👉 [[portfolio|here]] 👈 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFjdDNqcGVlcXpzaGYxcnNvamFrbGVzODN2NHJ0cjM1ZzBwZW56YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IydFHF2WeTmVMBi/giphy.gif" style="width: 100%; height: 185px; object-fit: cover; object-position: center;">
 
