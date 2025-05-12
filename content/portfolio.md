@@ -119,8 +119,8 @@ a web scraper for twitter that logs into your account and figures out who has be
 ## jkru3.xyz
 
 ### content
-- [ ] better [index page](https://ellie.wtf/)
-- [ ] more cohesive contact info
+- [x] better [index page](https://ellie.wtf/)
+- [x] more cohesive contact info
 - [ ] connect writings
 ### formatting
 - [x] find a way to make the duck look nicer in the callout

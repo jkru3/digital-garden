@@ -55,13 +55,14 @@ aliases:
 - find myself questioning whether or not my successes were enough to outweigh my failures
 - wondering whether or not i’ll be a serf to big tech AI overlords for the rest of my life
 - have to look back on how far i’ve come. Have to remember to have hope  %%
-hi, i’m Joey
+hi,
 
-growing up I was good at math, but really drawn to the arts, and very lost in school. After the 2008 crash, my parents who were both musicians themselves urged me away from music, but I chased it anyways. Instead of following through on college, in my early 20s…
-- I played guitar in bands
-- wrote albums, 
+my path hasn’t been linear. Growing up I was good at math, but really drawn to the music, and very lost in school. After the 2008 crash, my parents who were both musicians themselves urged me away from music. But I pursued it anyways, and instead of finishing college right away, during my early 20s…
+
+- i played guitar with a band
+- wrote two album,
 - lived out of a van
 - made money as a street performer
 - and worked and lived at a hostel in Mexico
 
-after Covid, i decided to pivot to technology after getting lost in the engineering of several projects i worked on. I resumed study at the University of Washington to study computer science, where i kept pace with some really brilliant young adults. I also co-founded a student-run startup called Clearvote, with the purpose of making it easy to lookup information about local election candidates
+after Covid, i decided to pivot to technology after getting lost in the engineering of a project i was working on. I resumed study at the University of Washington to study computer science, where i kept pace with brilliant, highly motivated people. I also co-founded a student-run startup called Clearvote, with the purpose of making it easy to make side-by-side comparisons of local election candidates

@@ -7,7 +7,7 @@ this is a collection of wise words i have heard or read, or quotes i've thought 
 
 more organized collections of personal wisdom are under
 - [[humanity++]]
-- [[life lessons]]
+%% - [[life lessons]] %%
 - [[parenting]]
 # #creation
 ## learning
