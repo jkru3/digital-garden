@@ -5,13 +5,70 @@ alias: here
 > if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my portfolio! I'm actively looking for work in the Seattle area. If interested in working together, feel free to reach out at **joseph.L.krueger(at)gmail.com**
 
 
-though i’m early in my career, i plan on specializing in **DevOps**, **Cloud Engineering**, and **Observability tools**. My longterm goal is to build infrastructure for ML, particularity infrastructure that makes it easier to understand what’s going on inside the black box, so that non-technical people can make better judgements about the technology that is displacing their work
+i like learning about all areas of technology, but what i find most rewarding is the subtle, hard to generalize aspects of software engineering
+- **platform/infrastructure engineering:** building and maintaining reliable infrastructure and developer platforms,
+- **backend systems engineering:** application logic, data processing, and core business systems
+- **developer experience:** tools and systems that improve developer productivity
+- **observability/reliability:** monitoring, alerting, etc.
 
-you can find a link to my resume [here](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf), but this is the place to be if you want to see results
+long-term, I’d like to build systems and infrastructure that demystify the inner workings of the black box for ML models. To the uninitiated, there is a perception that ML is reserved to pHd holders and the mathematical elite. I would love to contribute in shattering that illusion 
+
+**note:** my professional experience are deliberately excluded from this portfolio. This is a show case of my extracurricular learning and projects. If you want to know more about my work history, you can check out my LinkedIn or view my resume [here](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf)
+
+---
+
+# 2025 learning goals
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3c5YTRoZWU1a29jMDRwOHE1emhxNWd2bjM5cmI3dHdmejI4aDl3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZGIO2lAIEFq0E9T99X/giphy.gif" width="150" style="float: right; margin-top: -50px;" />
+
+---
+
+notes found at this [repo](https://github.com/jkru3/learning)
+## Kubernetes
+- [ ] complete Kubernetes Basics course (KodeKloud/Kubernetes.io)
+- [ ] set up a local Kubernetes cluster, deploy stateless applications
+- [ ] implement stateful workloads, PersistentVolumes, and StorageClasses
+- [ ] configure networking, ingress controllers, and create a demo portfolio project
+## IaC - Terraform
+- [ ] complete Terraform fundamentals course on Pluralsight or A Cloud Guru
+- [ ] build basic AWS infrastructure with Terraform (VPC, EC2, S3)
+- [ ] then deploy with CDK: deploy a Lambda + API Gateway. compare both. write notes/blog on tradeoffs
+- [ ] implement Terraform modules and state management best practices
+- [ ] create a complete infrastructure project for your portfolio
+## GitOps
+- [ ]  complete "GitOps Fundamentals" course on KodeKloud or Linux Foundation
+- [ ]  set up a local ArgoCD instance with minikube, deploy sample application
+- [ ]  implement GitOps workflow for a personal project
+- [ ]  build a CI/CD pipeline that integrates with your GitOps workflow
+## Go
+- [ ]  complete Go fundamentals course (Tour of Go/Codecademy)
+- [ ]  build CLI tools with Go standard library
+- [ ]  learn Go concurrency patterns (goroutines, channels)
+- [ ]  build a DevOps utility tool in Go for your portfolio
+## Monitoring with Prometheus/Grafana
+- [ ]  set up Prometheus locally, understand core concepts, implement basic exporters
+- [ ]  set up Grafana dashboards with Prometheus and implement basic alerting
+## Linux/Unix Administration
+- [ ]  complete Linux fundamentals course, focus on system administration
+- [ ]  create automated bash scripts for common DevOps tasks
+## OpenTelemetry
+- [ ]  learn observability concepts, implement basic traces in a sample application
+- [ ]  integrate with backend systems (Jaeger, Prometheus)
+## basic cloud-native platform (not sure what the best project for this is yet)
+- [ ]  integrate Kubernetes + Terraform + GitOps workflow
+- [ ]  add monitoring with Prometheus/Grafana
+- [ ]  document the architecture and deployment process
+## final proj (again, not sure what to do yet)
+- [ ]  build comprehensive DevOps platform combining all technologies
+- [ ]  implement a Go microservice with full observability
+- [ ]  create infrastructure as code with proper GitOps workflow
+- [ ]  add monitoring dashboards and alerting
+- [ ]  document with architecture diagrams and runbooks
+- [ ]  present as a portfolio piece
+
 
 ---
 # ongoing projects
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR5azNjZXJicmd5bmF6N3ZoaWg5ZHhuNTlkcWxxYm5zZ3ppcGVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ciqpFeTIjGqBhl6rn9/giphy.gif" width="150" style="float: right; margin-top: -50px;" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJpdm1iOTVjd2w3djd0dnY4bTA0NmczM3ZqZDd2bnU4NTlpZzAzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xohHbwcnOhqbS/giphy.gif" width="100" style="float: right; margin-top: -75px;" />
 
 ---
 ## Clearvote
@@ -98,6 +155,7 @@ right now, it’s finicky and only setup for personal use, but when i’ve refin
 	- [ ] make a crude UI
 - [ ] *alerts*
 	- [ ] print the diff of changes in career pages for
+	- [ ] only show additive changes
 	- [ ] make a crude UI
 	- [ ] reassess concurrency usage
 
@@ -122,8 +180,10 @@ a web scraper for twitter that logs into your account and figures out who has be
 ### content
 - [x] better [index page](https://ellie.wtf/)
 - [x] more cohesive contact info
+- [ ] modified dates on quartz app are wrong
 - [ ] dropdown TODOs
 - [ ] add a work section
+- [ ] download GIFs and make public
 - [ ] connect old writings
 ### formatting
 - [x] find a way to make the duck look nicer in the callout
@@ -150,7 +210,7 @@ a web scraper for twitter that logs into your account and figures out who has be
 
 ---
 # *previous* projects
-<img src="https://media.giphy.com/media/9AnlnxZ2kJ2yU682Gg/giphy.gif?cid=ecf05e47hng32xd2d4fmg4wn3iy2t0ouqww8f0eh1ybv770s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" style="float: right; margin-top: -50px;"/>
+<img src="https://media.giphy.com/media/9AnlnxZ2kJ2yU682Gg/giphy.gif?cid=ecf05e47hng32xd2d4fmg4wn3iy2t0ouqww8f0eh1ybv770s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" style="float: right; margin-top: -75px;"/>
 
 ---
 ## High Speed Rail project
@@ -224,11 +284,12 @@ i spent years of my life devoted to writing, playing, and performing in the musi
 a project for a startup competition i made with [Elias Belzberg](https://github.com/EliasBelz). We didn’t win, but we learned a lot about the business side of launching a startup %%
 
 ---
-# future plans (may work on someday, if time allows)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA2NWQ4cmRhZzEzZTB1bTVpdTI3YXhlNHBlZWhoamU5ZXYxNjM3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0YwHADEH90Mjii6qHV/giphy.gif" width="150" style="float: right; margin-top: -50px;"/>
+# future projects
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA2NWQ4cmRhZzEzZTB1bTVpdTI3YXhlNHBlZWhoamU5ZXYxNjM3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0YwHADEH90Mjii6qHV/giphy.gif" width="150" style="float: right; margin-top: -75px;"/>
 
 ---
 
+no guarantees i will have the time to start any of this
 - [[opinion board]] (partially implemented —see the [[portfolio#*previous* projects|High Speed Rail project]])
 - [[urban sprawl predictor]]
 - [[art distribution project]]
