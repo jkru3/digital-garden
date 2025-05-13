@@ -18,7 +18,7 @@ long-term, I’d like to build systems and infrastructure that demystify the inn
 ---
 
 # 2025 learning goals
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3c5YTRoZWU1a29jMDRwOHE1emhxNWd2bjM5cmI3dHdmejI4aDl3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZGIO2lAIEFq0E9T99X/giphy.gif" width="150" style="float: right; margin-top: -50px;" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3c5YTRoZWU1a29jMDRwOHE1emhxNWd2bjM5cmI3dHdmejI4aDl3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZGIO2lAIEFq0E9T99X/giphy.gif" width="150" style="float: right; margin-top: -85px;" />
 
 ---
 
