@@ -1,11 +1,25 @@
 ---
-tags:
-  - personal
-  - humans
-  - list
-aliases:
-  - Joey
+description: sup 😎
 ---
+hi,
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFzcDdxZzN1bG54anI4Y2MwM2J5MXFpYmdyd29iYjQyd2I5bzlubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p7SGIUjYpk4bMiUUbB/giphy.gif" width="150" style="float: right; margin-top: 20px; margin-left: 10px;">
+
+my path hasn’t been linear. Growing up I was good at math, but really drawn to the music, and very lost in school. After the 2008 crash, my parents who were both musicians themselves urged me away from music. But I pursued it anyways, and instead of finishing college right away, during my early 20s…
+
+
+- i played guitar with a band
+- wrote two album,
+- lived out of a van
+- made money as a street performer
+- and worked and lived at a hostel in Mexico
+
+there were some growing pains
+
+---
+
+after Covid, i decided to pivot to technology after getting lost in the engineering of a project i was working on. I resumed study at the University of Washington to study computer science, where i kept pace with brilliant, highly motivated people. I also co-founded a student-run startup called Clearvote, with the purpose of making it easy to make side-by-side comparisons of local election candidates
+
 %% - be me
 - 13 m
 - don’t fit in at school. Ok at math and science but not much else. Not good at sports
@@ -55,14 +69,3 @@ aliases:
 - find myself questioning whether or not my successes were enough to outweigh my failures
 - wondering whether or not i’ll be a serf to big tech AI overlords for the rest of my life
 - have to look back on how far i’ve come. Have to remember to have hope  %%
-hi,
-
-my path hasn’t been linear. Growing up I was good at math, but really drawn to the music, and very lost in school. After the 2008 crash, my parents who were both musicians themselves urged me away from music. But I pursued it anyways, and instead of finishing college right away, during my early 20s…
-
-- i played guitar with a band
-- wrote two album,
-- lived out of a van
-- made money as a street performer
-- and worked and lived at a hostel in Mexico
-
-after Covid, i decided to pivot to technology after getting lost in the engineering of a project i was working on. I resumed study at the University of Washington to study computer science, where i kept pace with brilliant, highly motivated people. I also co-founded a student-run startup called Clearvote, with the purpose of making it easy to make side-by-side comparisons of local election candidates

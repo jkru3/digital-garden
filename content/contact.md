@@ -1,9 +1,7 @@
 ---
-tags:
-  - navbar
-  - personal
-aliases:
-  - let's talk
+tags: 
+aliases: 
+description: let's talk
 ---
 thanks for stopping by!
 

@@ -1,7 +1,6 @@
 ---
-tags:
-  - navbar
-  - documentation
+tags: 
+description: human readable robots.txt
 ---
 ## COPYRIGHT AND DATA USAGE DISCLAIMER
 

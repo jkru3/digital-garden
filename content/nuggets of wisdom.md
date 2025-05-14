@@ -1,7 +1,6 @@
 ---
-tags:
-  - navbar
-  - personal
+tags: 
+description: a semi-organized collection of wise words
 ---
 this is a collection of wise words i have heard or read, or quotes i've thought of myself. I've categorized quotes by what they pertain to to make this page easier to maintain. Authors are not always credited, because a lot of things are just a subconscious paraphrase of other things i've heard. If it isn't attributed to anyone, i *may* have put the words together, but i don't claim it as my own
 

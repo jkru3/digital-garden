@@ -30,7 +30,7 @@ i think of this as my proof of stake in the human experience. If all the heavy l
 ## navigation
 the *recent notes* pane is the best way to see what I’m working on. Or you can click on links in the notes themselves. Notes are also tagged so i can navigate my own work better and see connecting patterns
 
-- the *structure* of each note is hashed as an **essay**, **list**, **freeform**, or part of the **navbar**
+- the *structure* of each note is hashed as an **essay**, **list**, or **freeform**
 - the *formality* of each note is either **personal**, **reflection**, **outline**, **documentation**, or **ditty** depending on how serious or personal I consider it 
 - i write about lots of *subjects*. Sometimes, several at the same time, including **humans**, **tech**, **culture**, **creation**, **survival**, **business**, **maturity**, and **dhamma** (AKA: “spirituality“). I’m absolutely not an expert in any of these domains, i’m just obsessively learning about them. I’ve indexed a lot of my favorite ideas in [[nuggets of wisdom]]
 
@@ -39,7 +39,7 @@ the *recent notes* pane is the best way to see what I’m working on. Or you can
 - TODO (✨🌈*funemployed*🌈✨)
 - previously worked two technical internships
 - was a restaurant server and bartender for 6 years
-- going way back… i used to lifeguard (I know CPR 😉)
+- going way back… i used to lifeguard (I know CPR)
 - [resume](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf)
 
 your thoughts don’t define you. All my writings here are just a snapshot of who i am

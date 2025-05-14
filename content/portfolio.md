@@ -1,9 +1,8 @@
 ---
-alias: here
+description: Joey's engineering background
 ---
 > [!duck] open to work!
 > if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my portfolio! I'm actively looking for work in the Seattle area. If interested in working together, feel free to reach out at **joseph.L.krueger(at)gmail.com**
-
 
 i like learning about all areas of technology, but what i find most rewarding is the subtle, hard to generalize aspects of software engineering
 - **platform/infrastructure engineering:** building and maintaining reliable infrastructure and developer platforms,
@@ -17,23 +16,28 @@ long-term, I’d like to build systems and infrastructure that demystify the inn
 
 ---
 
-# 2025 learning goals
+# 2025 learning objectives
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3c5YTRoZWU1a29jMDRwOHE1emhxNWd2bjM5cmI3dHdmejI4aDl3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZGIO2lAIEFq0E9T99X/giphy.gif" width="150" style="float: right; margin-top: -85px;" />
 
 ---
 
-notes found at this [repo](https://github.com/jkru3/learning)
+my notes on these topics can be found at [this repo](https://github.com/jkru3/learning)
+
+***NOTICE 2025/05/13:*** *i’ve put these learning objectives on hold to grind LeetCode problems (so i can land a job where i’ll get to use the skills i’m not learning)*
+
 ## Kubernetes
 - [ ] complete Kubernetes Basics course (KodeKloud/Kubernetes.io)
 - [ ] set up a local Kubernetes cluster, deploy stateless applications
 - [ ] implement stateful workloads, PersistentVolumes, and StorageClasses
 - [ ] configure networking, ingress controllers, and create a demo portfolio project
+- [ ] look into CKA (Certified Kubernetes Administrator)
 ## IaC - Terraform
 - [ ] complete Terraform fundamentals course on Pluralsight or A Cloud Guru
 - [ ] build basic AWS infrastructure with Terraform (VPC, EC2, S3)
 - [ ] then deploy with CDK: deploy a Lambda + API Gateway. compare both. write notes/blog on tradeoffs
 - [ ] implement Terraform modules and state management best practices
 - [ ] create a complete infrastructure project for your portfolio
+- [ ] look into HashiCorp Certified: Terraform Associate
 ## GitOps
 - [ ]  complete "GitOps Fundamentals" course on KodeKloud or Linux Foundation
 - [ ]  set up a local ArgoCD instance with minikube, deploy sample application
@@ -64,7 +68,8 @@ notes found at this [repo](https://github.com/jkru3/learning)
 - [ ]  add monitoring dashboards and alerting
 - [ ]  document with architecture diagrams and runbooks
 - [ ]  present as a portfolio piece
-
+## misc.
+- [ ] look into AWS Certified Solutions Architect Associate
 
 ---
 # ongoing projects
@@ -185,6 +190,7 @@ a web scraper for twitter that logs into your account and figures out who has be
 - [ ] add a work section
 - [ ] download GIFs and make public
 - [ ] connect old writings
+- [ ] figure out the image insert bug
 ### formatting
 - [x] find a way to make the duck look nicer in the callout
 - [x] minimize images in portfolio
@@ -291,6 +297,7 @@ a project for a startup competition i made with [Elias Belzberg](https://github.
 
 no guarantees i will have the time to start any of this
 - [[opinion board]] (partially implemented —see the [[portfolio#*previous* projects|High Speed Rail project]])
+- [[personalized AI generated GIFs]]
 - [[urban sprawl predictor]]
 - [[art distribution project]]
 - [[reverse yelp]]
