@@ -2,7 +2,6 @@
 title: welcome
 description: home page for Joey's digital garden
 ---
-
  > [!duck] open to work!
  > 
 > if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my personal website! 

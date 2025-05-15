@@ -23,7 +23,7 @@ long-term, I’d like to build systems and infrastructure that demystify the inn
 
 my notes on these topics can be found at [this repo](https://github.com/jkru3/learning)
 
-***NOTICE 2025/05/13:*** *i’ve put these learning objectives on hold to grind LeetCode problems (so i can land a job where i’ll get to use the skills i’m not learning)*
+**2025/05/13:** alot of these learning objectives are on hold rn to grind LeetCode for an upcoming interview (for a job where i might be able to use them)
 
 ## Kubernetes
 - [ ] complete Kubernetes Basics course (KodeKloud/Kubernetes.io)
@@ -191,6 +191,7 @@ a web scraper for twitter that logs into your account and figures out who has be
 - [ ] download GIFs and make public
 - [ ] connect old writings
 - [ ] figure out the image insert bug
+- [ ] 404 page
 ### formatting
 - [x] find a way to make the duck look nicer in the callout
 - [x] minimize images in portfolio
@@ -295,9 +296,12 @@ a project for a startup competition i made with [Elias Belzberg](https://github.
 
 ---
 
-no guarantees i will have the time to start any of this
+projects take time from other things i enjoy so no guarantees i will have the time to start any of this. I have a [[a template for building profitable things]] that i use to determine whether or not something is worth working on
+
+feel free to take any of this stuff and run with it, just make sure to credit me for the inspiration (better yet, [[contact|reach out]] and let’s build it together)
 - [[opinion board]] (partially implemented —see the [[portfolio#*previous* projects|High Speed Rail project]])
 - [[personalized AI generated GIFs]]
+- some kind of podcast/youtube channel on *How to Think* 
 - [[urban sprawl predictor]]
 - [[art distribution project]]
 - [[reverse yelp]]

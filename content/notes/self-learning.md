@@ -14,7 +14,7 @@ the prowess of the mind is a double edged sword. Thinking is the highest paid sk
 
 <br clear="all">
 
-respect the power of your mind. Use it efficiently. Do not let it consume you
+respect the power of your mind. In self-learning, there are no guardrails. Use it efficiently, and do not let it consume you
 
 # be bloat-phobic
 
@@ -22,7 +22,7 @@ respect the power of your mind. Use it efficiently. Do not let it consume you
 
 our society is setup for the production quantity, rather than quality, of content. We praise repetition, rather than iteration
 
-avoid making endless content. Go back and refine what you have. If you do not organize your thinking in such a way, you will write the same things again and again, and will never make any meaningful connections between your thoughts to make the jump from knowledge to wisdom
+but avoid making endless discoveries, blog posts, and observations. Go back and refine what you have. If you do not organize your thinking in such a way, you will write the same things again and again, and will never make any meaningful connections between your thoughts enough to make the jump from knowledge to wisdom
 
 <br clear="all">
 
