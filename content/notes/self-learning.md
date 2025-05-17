@@ -4,21 +4,19 @@ tags:
   - reflection
   - creation
 ---
-![](swords.jpeg#left--50)
+&nbsp; ![the tarot card “ruin“ from Crowley’s Thoth Deck](swords.jpeg#image__left)
 
 in Tarot, there are four suits: wands, cups, coins, and swords. Their respective concerns are spiritual, emotional, physical, and intellectual
 
 of all the suits, swords are considered the most painful
 
 the prowess of the mind is a double edged sword. Thinking is the highest paid skill on the planet. It is also the downfall of many who wield it. This is evident in the personal lives of Einstein and Socrates
-
-<br clear="all">
-
+&nbsp; <br clear="all">
 respect the power of your mind. In self-learning, there are no guardrails. Use it efficiently, and do not let it consume you
 
 # be bloat-phobic
 
-![](knowledge%20vs%20wisdom.jpeg#right--50)
+&nbsp; ![knowledge vs wisdom](knowledge%20vs%20wisdom.jpeg#image__right)
 
 our society is setup for the production quantity, rather than quality, of content. We praise repetition, rather than iteration
 
@@ -39,4 +37,3 @@ find a way to make whatever you are learning about the most interesting thing in
 when i was learning how to learn, i got lost in a lot in the systems: Traperkeepers, Pomodoro timers, Timeblocked calendars, Kanban boards, Zettelkasten notes, and useful tools like Obsidian and GitHub. Experimenting with these tools is an important stage of development, but it’s important not to become to overly focused on using the systems themselves and let the right way to use them emerge naturally
 
 systems should serve your learning. Not the other way around
-

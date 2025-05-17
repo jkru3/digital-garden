@@ -1,27 +1,43 @@
+// images can be placed using the format:
+// `&nbsp; ![alt text](image-url#left--50)`
+
+// you can add any text you want after this, but if you don't want text to wrap further, add:
+// `&nbsp; <br clear="all">`
+
+// NOTE: `&nbsp;` is used to prevent the image from being treated as a block element in editor mode
+
 @use "./base.scss";
 
-img[src$="#left--50"] {
-    vertical-align: top;
+img[src$="#image__left"] {
     float: left;
     max-width: 50%;
     margin-right: 2rem;
-    // margin-bottom: 1rem;
 }
 
-img[src$="#right--50"] {
-    vertical-align: top;
+img[src$="#image__right"] {
     float: right;
     max-width: 50%;
     margin-left: 2rem;
-    // margin-bottom: 1rem;
 }
 
-// tip: use <br clear="all"> to clear floats
+img[src$="#gif__right--small"] {
+    float: right;
+    height: 80px; /* Using height instead of width */
+    width: auto; /* Let width adjust proportionally */
+    margin-top: -80px;
+}
+
+img[src$="#gif__right--big"] {
+    float: right;
+    height: 160px; /* Using height instead of width */
+    width: auto; /* Let width adjust proportionally */
+    margin-top: -160px;
+}
 
 // TODO: change max-width to $mobile
 @media screen and (max-width: 800px) {
-    img[src$="#left--50"],
-    img[src$="#right--50"] {
+    img[src$="#image__left"],
+    img[src$="#image__right"] {
         float: none;
         max-width: 100%;
         margin-right: 0;

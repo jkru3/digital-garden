@@ -18,13 +18,12 @@ engineers are at their best when they understand complexity in depth. Artists ar
 
 i’ve setup this [digital garden](https://joelhooks.com/digital-garden/) as a generalist playground so i can learn to integrate both skillsets into my [[portfolio]]. I don’t write many technical notes here. But, this isn’t just a personal website or blog either. It’s more of a personal wiki of thoughts that i’m reflecting and refining upon from all the things i’ve experienced. You can learn more about how i’ve set this up [[how am i building this?|here]]
 
-![](Henry%20David%20Thoreau.avif#left--50)
+&nbsp; ![](Henry%20David%20Thoreau.avif#image__left)
 
 >*many go fishing all their lives without knowing that it is not fish they are after* —Henry David Thoreau
 
 i think of this as my proof of stake in the human experience. If all the heavy lifting is done by AI in the future, what else can we leave the world with?
-
-<br clear="all">
+&nbsp; <br clear="all">
 
 ## navigation
 the *recent notes* pane is the best way to see what I’m working on. Or you can click on links in the notes themselves. Notes are also tagged so i can navigate my own work better and see connecting patterns
@@ -57,7 +56,7 @@ As Jung once said: ![[nuggets of wisdom#^god-Carl-Jung]]
 
 ![[nuggets of wisdom#^Henry-David-Thoreau]]
 ![](David%20Foster%20Wallace.jpg)
-![](rumi.jpg#left--50)![](bob%20marley.avif#right--50)
+![](Rumi.jpg#left--50)![](bob%20marley.avif#right--50)
 
 
 

@@ -4,6 +4,13 @@ description: Joey's engineering background
 > [!duck] open to work!
 > if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my portfolio! I'm actively looking for work in the Seattle area. If interested in working together, feel free to reach out at **joseph.L.krueger(at)gmail.com**
 
+
+
+
+
+
+
+
 i like learning about all areas of technology, but what i find most rewarding is the subtle, hard to generalize aspects of software engineering
 - **platform/infrastructure engineering:** building and maintaining reliable infrastructure and developer platforms,
 - **backend systems engineering:** application logic, data processing, and core business systems
@@ -17,7 +24,7 @@ long-term, I’d like to build systems and infrastructure that demystify the inn
 ---
 
 # 2025 learning objectives
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3c5YTRoZWU1a29jMDRwOHE1emhxNWd2bjM5cmI3dHdmejI4aDl3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZGIO2lAIEFq0E9T99X/giphy.gif" width="150" style="float: right; margin-top: -85px;" />
+&nbsp; ![](brain.gif#gif__right--small)
 
 ---
 
@@ -26,7 +33,7 @@ my notes on these topics can be found at [this repo](https://github.com/jkru3/le
 **2025/05/13:** alot of these learning objectives are on hold rn to grind LeetCode for an upcoming interview (for a job where i might be able to use them)
 
 ## Kubernetes
-- [ ] complete Kubernetes Basics course (KodeKloud/Kubernetes.io)
+- [ ] complete Kubernetes Basics course on [KodeKloud]
 - [ ] set up a local Kubernetes cluster, deploy stateless applications
 - [ ] implement stateful workloads, PersistentVolumes, and StorageClasses
 - [ ] configure networking, ingress controllers, and create a demo portfolio project
@@ -95,19 +102,18 @@ my notes on these topics can be found at [this repo](https://github.com/jkru3/le
 <img src="https://img.shields.io/badge/GeoPandas-306998?logo=pandas&logoColor=white&style=for-the-badge" alt="GeoPandas" width="">
 </span>
 
-![](clearvote%20banner.jpeg#left--50)
+&nbsp; ![](clearvote%20banner.jpeg#image__left)
 
 - **app [link](https://clearvote.info/)**
 - front-end [repo](https://github.com/clear-vote/frontend)
 - precinct-mapper [repo](https://github.com/clear-vote/precinct-mapper) (how we map user coordinates to geodata)
 - LLM pipeline and orchestrator ~~repo~~ (we can’t share this yet, sorry 🤫)
-
-<br clear="all">
+&nbsp; <br clear="all">
 
 provides over 3000 users with side-by-side comparisons of election candidates. Aims transcend party lines and provide prospective voters with a new way to visualize political intentions. Co-founded with [Anaya Pandit](https://github.com/anayap0)
 
-### TODOs
-- [ ] setup Clearvote for 2025 Washington State local election
+>[!todo]- TODOs
+>- [ ] setup Clearvote for 2025 Washington State local election
 
 ---
 ## financial portfolio rebalancer
@@ -132,11 +138,11 @@ building an app that trains time-series models on stock data, which it can run t
 2. *auto-trader*: uses a simple EMA algorithm to predict which stocks to invest in
 3. *time-series-forecast*: TBD
 
-### TODOs
-- [ ] connect *trade-dashboard* to *auto-trader*
-	- [ ] figure out a way to test with mock data
-	- [ ] design a simple db for the *auto-trader*
-- [ ] start work on *time-series-forecast*
+>[!todo]- TODOs
+>- [ ] connect *trade-dashboard* to *auto-trader*
+>	- [ ] figure out a way to test with mock data
+>	- [ ] design a simple db for the *auto-trader*
+>- [ ] start work on *time-series-forecast*
 
 ---
 ## Jobfindr
@@ -145,24 +151,25 @@ building an app that trains time-series models on stock data, which it can run t
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" width="">
 </span>
 
-![](jobfindr%20resumes.jpeg#right--50)
+&nbsp; ![](jobfindr%20resumes.jpeg#image__right)
 - GitHub [repo](https://github.com/jkru3/jobfindr)
 
 a crude tool i made to help me
 1. tailor resumes to specific job postings
 2. notify me whenever a company career page i’m interested in adds a new role
+&nbsp; <br clear="all">
 
 right now, it’s finicky and only setup for personal use, but when i’ve refined it more, i’m interested in turning this into a simple open-source tool anyone can use
 
-### TODOs
-- [ ] resumes
-	- [ ] compile .tex files without an extension
-	- [ ] make a crude UI
-- [ ] *alerts*
-	- [ ] print the diff of changes in career pages for
-	- [ ] only show additive changes
-	- [ ] make a crude UI
-	- [ ] reassess concurrency usage
+>[!todo]- TODOs
+>- [ ] resumes
+>	- [ ] compile .tex files without an extension
+>	- [ ] make a crude UI
+>- [ ] *alerts*
+>	- [ ] print the diff of changes in career pages for
+>	- [ ] only show additive changes
+>	- [ ] make a crude UI
+>	- [ ] reassess concurrency usage
 
 ---
 ## X/Twitter engagement maximizer
@@ -175,45 +182,48 @@ right now, it’s finicky and only setup for personal use, but when i’ve refin
 
 a web scraper for twitter that logs into your account and figures out who has been engaging with your posts. It then creates a curated list of accounts consisting of only accounts who have engaged with you the most
 
-### TODOs
-- [ ] MVP
+>[!todo]- TODOs
+>- [ ] MVP
 
 ---
 
 ## jkru3.xyz
 
-### content
-- [x] better [index page](https://ellie.wtf/)
-- [x] more cohesive contact info
-- [ ] modified dates on quartz app are wrong
-- [ ] dropdown TODOs
-- [ ] add a work section
-- [ ] download GIFs and make public
-- [ ] connect old writings
-- [ ] figure out the image insert bug
-- [ ] 404 page
-### formatting
-- [x] find a way to make the duck look nicer in the callout
-- [x] minimize images in portfolio
-### styling
-- [ ] slow transition [light/darkmode](https://turntrout.com/welcome)
-- [ ] hide [sides](https://notes.yxy.ninja/)
-- [ ] spacing of badges
-- [ ] spacing of new-lines
-- [ ] figure out .scss for LinksHeader
-- [ ] LinksHeader should pass in parameters
-- [ ] LinksHeader rename to → NavBar
-- [ ] hover-over tags
-- [ ] highlight vistited links
-### personal
-- [ ] remove quartz banner
-- [ ] old windows [cursors](https://www.pmcf.xyz/)
-- [ ] unique branding
-- [ ] aesthetic [text dividers](https://quartz.eilleeenz.com/)
-### technical
-- [ ] setup [commenting](https://www.chadly.net/)
-- [ ] find a way to setup view counts
-- [ ] setup [newsletters](https://brandonkboswell.com/)
+you’re looking at it
+
+>[!todo]- TODOs
+>### content
+>- [x] better [index page](https://ellie.wtf/)
+>- [x] more cohesive contact info
+>- [ ] modified dates on quartz app are wrong
+>- [x] dropdown TODOs
+>- [x] ~~add a work section~~ not doing this
+>- [ ] download GIFs and make public
+>- [ ] connect old writings
+>- [x] figure out the image insert bug
+>- [ ] 404 page
+>### formatting
+>- [x] find a way to make the duck look nicer in the callout
+>- [x] minimize images in portfolio
+>### styling
+>- [ ] slow transition [light/darkmode](https://turntrout.com/welcome)
+>- [ ] hide [sides](https://notes.yxy.ninja/)
+>- [ ] spacing of badges
+>- [ ] spacing of new-lines
+>- [ ] figure out .scss for LinksHeader
+>- [ ] LinksHeader should pass in parameters
+>- [ ] LinksHeader rename to → NavBar
+>- [ ] hover-over tags
+>- [ ] highlight vistited links
+>### personal
+>- [ ] remove quartz banner
+>- [ ] old windows [cursors](https://www.pmcf.xyz/)
+>- [ ] unique branding
+>- [ ] aesthetic [text dividers](https://quartz.eilleeenz.com/)
+>### technical
+>- [ ] setup [commenting](https://www.chadly.net/)
+>- [ ] find a way to setup view counts
+>- [ ] setup [newsletters](https://brandonkboswell.com/)
 
 ---
 # *previous* projects
@@ -261,13 +271,12 @@ a hackathon project i made with [Elias Belzberg](https://github.com/EliasBelz). 
 
 
 an NLP research project submitted against the ProtoQA common-sense reasoning benchmark
-![image1](ProtoQA%20poster.jpeg#left--50)
+&nbsp; ![Steve Harvey](ProtoQA%20poster.jpeg#image__left)
 
 - link to [write-up](https://jkru3.github.io/resumes/assets/research_submissions/NLP_Final_Project.pdf)
 - link to [benchmark leaderboard](https://leaderboard.allenai.org/protoqa/submissions/public)
 - link to [code](https://colab.research.google.com/drive/16hLsMh75-CQ52nnpXu8K7BjRvn8hqhMQ?usp=sharing)
-
-<br clear="all">
+&nbsp; <br clear="all">
 
 ---
 ## everything always works out in the end
@@ -275,13 +284,12 @@ an NLP research project submitted against the ProtoQA common-sense reasoning ben
   <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge" alt="Spotify" width="">
 </span>
 
-![](album%20art.jpg#right--50)
+&nbsp; ![](album%20art.jpg#image__right)
 
 - **link to [album](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=0RGh8qFtRQOqxshjBY7RDg&nd=1&dlsi=de78ec430def4e69)**
 
 i spent years of my life devoted to writing, playing, and performing in the musical arts. This is what I have to show for it
-
-<br clear="all">
+&nbsp; <br clear="all">
 
 %% ## AutoDubs
 <span>
