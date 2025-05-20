@@ -32,35 +32,38 @@ my notes on these topics can be found at [this repo](https://github.com/jkru3/le
 
 **2025/05/13:** alot of these learning objectives are on hold rn to grind LeetCode for an upcoming interview (for a job where i might be able to use them)
 
+- [ ] [KodeKloud](https://kodekloud.com/learning-path/cloud-engineer/) courses (start with [DevOps](https://kodekloud.com/learning-path/devops-engineer) path and [Cloud](https://kodekloud.com/learning-path/cloud-engineer/) first)
+	- [x] Kubernetes
+	- [x] IaC
+	- [x] GitOps
+	- [x] Go
+	- [ ] CI/CD
+	- [x] Docker
+	- [x] Shell Scripting
+	- [x] Linux/Unix admin
 ## Kubernetes
-- [ ] complete Kubernetes Basics course on [KodeKloud]
 - [ ] set up a local Kubernetes cluster, deploy stateless applications
 - [ ] implement stateful workloads, PersistentVolumes, and StorageClasses
-- [ ] configure networking, ingress controllers, and create a demo portfolio project
-- [ ] look into CKA (Certified Kubernetes Administrator)
+- [ ] configure networking, ingress controllers, and create a demo project
 ## IaC - Terraform
-- [ ] complete Terraform fundamentals course on Pluralsight or A Cloud Guru
 - [ ] build basic AWS infrastructure with Terraform (VPC, EC2, S3)
 - [ ] then deploy with CDK: deploy a Lambda + API Gateway. compare both. write notes/blog on tradeoffs
 - [ ] implement Terraform modules and state management best practices
-- [ ] create a complete infrastructure project for your portfolio
-- [ ] look into HashiCorp Certified: Terraform Associate
+- [ ] create a complete a demo infrastructure project
 ## GitOps
-- [ ]  complete "GitOps Fundamentals" course on KodeKloud or Linux Foundation
 - [ ]  set up a local ArgoCD instance with minikube, deploy sample application
 - [ ]  implement GitOps workflow for a personal project
 - [ ]  build a CI/CD pipeline that integrates with your GitOps workflow
 ## Go
-- [ ]  complete Go fundamentals course (Tour of Go/Codecademy)
 - [ ]  build CLI tools with Go standard library
 - [ ]  learn Go concurrency patterns (goroutines, channels)
-- [ ]  build a DevOps utility tool in Go for your portfolio
-## Monitoring with Prometheus/Grafana
-- [ ]  set up Prometheus locally, understand core concepts, implement basic exporters
-- [ ]  set up Grafana dashboards with Prometheus and implement basic alerting
+- [ ]  build a DevOps utility tool in Go
 ## Linux/Unix Administration
 - [ ]  complete Linux fundamentals course, focus on system administration
 - [ ]  create automated bash scripts for common DevOps tasks
+## Monitoring with Prometheus/Grafana
+- [ ]  set up Prometheus locally, understand core concepts, implement basic exporters
+- [ ]  set up Grafana dashboards with Prometheus and implement basic alerting
 ## OpenTelemetry
 - [ ]  learn observability concepts, implement basic traces in a sample application
 - [ ]  integrate with backend systems (Jaeger, Prometheus)
@@ -76,11 +79,13 @@ my notes on these topics can be found at [this repo](https://github.com/jkru3/le
 - [ ]  document with architecture diagrams and runbooks
 - [ ]  present as a portfolio piece
 ## misc.
+- [ ] look into CKA (Certified Kubernetes Administrator)
+- [ ] look into HashiCorp Certified: Terraform Associate
 - [ ] look into AWS Certified Solutions Architect Associate
 
 ---
 # ongoing projects
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJpdm1iOTVjd2w3djd0dnY4bTA0NmczM3ZqZDd2bnU4NTlpZzAzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xohHbwcnOhqbS/giphy.gif" width="100" style="float: right; margin-top: -75px;" />
+&nbsp;![](frog.gif#gif__right--small)
 
 ---
 ## Clearvote
@@ -227,7 +232,7 @@ you’re looking at it
 
 ---
 # *previous* projects
-<img src="https://media.giphy.com/media/9AnlnxZ2kJ2yU682Gg/giphy.gif?cid=ecf05e47hng32xd2d4fmg4wn3iy2t0ouqww8f0eh1ybv770s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" style="float: right; margin-top: -75px;"/>
+&nbsp;![](spongebob.gif#gif__right--small)
 
 ---
 ## High Speed Rail project
@@ -300,7 +305,7 @@ a project for a startup competition i made with [Elias Belzberg](https://github.
 
 ---
 # future projects
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA2NWQ4cmRhZzEzZTB1bTVpdTI3YXhlNHBlZWhoamU5ZXYxNjM3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0YwHADEH90Mjii6qHV/giphy.gif" width="150" style="float: right; margin-top: -75px;"/>
+&nbsp;![](robot%20arm.gif#gif__right--small)
 
 ---
 

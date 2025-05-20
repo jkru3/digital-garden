@@ -2,10 +2,9 @@
 description: sup 😎
 ---
 hi,
-%%&nbsp; ![not actually what i look like](chad.gif#gif__right--large)%%
+&nbsp;![not actually what i look like](handsome.gif#gif__right--big)
 
 my path hasn’t been linear. Growing up I was good at math, but really drawn to the music, and very lost in school. After the 2008 crash, my parents who were both musicians themselves urged me away from music. But I pursued it anyways, and instead of finishing college right away, during my early 20s…
-
 
 - i played guitar with a band
 - wrote two album,
