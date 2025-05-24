@@ -85,9 +85,10 @@ survival is the gift of continued living. But also, a person’s true character 
 - understand [[everyday hazards]]
 ## 4. learn how to **fight**
 fighting is an extension of survival, but one that enables you to go beyond and protect yourself against the most dangerous human encounters. In doing so, you are able to carry that confidence into all interactions where you must work with others
+- “the only solution for bad and violent people, are good people that are more skilled in violence”
 ### striking
 - brain health is **not** to be taken for granted
-	- do not let **anyone** take your head for granted. Your brain should be treated with reverence
+	- do not let **anyone** you train with carelessly hit you. Your brain should be treated with reverence
 	- fighting 100% and routine sparring robs you of your wit and the consciousness that makes you your most [[human]]
 	- longterm sub-concussive hits have the greatest impact on your mental health
 	- ***striking*** should primarily focus on defense and be practiced with caution. ***grappling*** can be practiced more liberally and use more offensive work
@@ -100,16 +101,16 @@ fighting is an extension of survival, but one that enables you to go beyond and 
 	- neck and core-work will protect you. WORK THESE MUSCLES like your mind depends on them
 	- learn non-contact defenses (slips, rolls, slides)
 ### general
-- know what signs to indicate combat experience in strangers
-- part of the reason you learn to fight is to understand the cost of conflict
-- know [when *not* to fight](https://www.youtube.com/shorts/SbHlRgtrv0w)
-- understand the rules of engagement with authorities and those with the potential to hurt you
-- appreciate pain, do not over-validate it or make it traumatizing
 - know humility
 	- you cannot expect those with more power to yield respect to you unless you are willing to yield to those with less power
-- *quote these*:
-	- “the only solution for bad and violent people, are good people that are more skilled in violence”
-	- “we give up greatness in deference to comfort”
+- part of the reason you learn to fight is to understand the cost of conflict
+	- pay attention to the signals of someone’s ability and willingness to issue violence
+	- know [when *not* to fight](https://www.youtube.com/shorts/SbHlRgtrv0w)
+	- understand the consequences of engagement with authorities and those with the potential to seriously hurt you
+- be mindful of pain
+	- some pain should be worked through, so don’t over-validate it. This can create unnecessary trauma that makes you afraid to push further than you are able to
+		- “we give up greatness in deference to comfort”
+	- some pain shouldn’t be ignored. An injury will set you back
 ## 5. learn how to work with others (outside your circle)
 in all relationships you will encounter people who can help you, people who can hurt you, and people who could be great friends. It’s important to understand how to set boundaries that allow the right people to come closer and keep the wrong people at a distance
 - seek to inspire, not to impress

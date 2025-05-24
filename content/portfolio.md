@@ -5,12 +5,6 @@ description: Joey's engineering background
 > if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my portfolio! I'm actively looking for work in the Seattle area. If interested in working together, feel free to reach out at **joseph.L.krueger(at)gmail.com**
 
 
-
-
-
-
-
-
 i like learning about all areas of technology, but what i find most rewarding is the subtle, hard to generalize aspects of software engineering
 - **platform/infrastructure engineering:** building and maintaining reliable infrastructure and developer platforms,
 - **backend systems engineering:** application logic, data processing, and core business systems
@@ -207,6 +201,7 @@ you’re looking at it
 >- [ ] connect old writings
 >- [x] figure out the image insert bug
 >- [ ] 404 page
+>- [ ] clean up orphans
 >### formatting
 >- [x] find a way to make the duck look nicer in the callout
 >- [x] minimize images in portfolio
@@ -226,6 +221,7 @@ you’re looking at it
 >- [ ] unique branding
 >- [ ] aesthetic [text dividers](https://quartz.eilleeenz.com/)
 >### technical
+>- [ ] image subdirectories
 >- [ ] setup [commenting](https://www.chadly.net/)
 >- [ ] find a way to setup view counts
 >- [ ] setup [newsletters](https://brandonkboswell.com/)

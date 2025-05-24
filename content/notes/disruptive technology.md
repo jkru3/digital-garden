@@ -8,6 +8,8 @@ tags:
   - essay
   - outline
 ---
+see [[AI hesitancy]]
+
 proponents of disruptive technology argue that you can’t just force everyone to conform to some new standard of living. And they are right, because you don’t have to. The same way the automobile or the Iphone didn’t have to force everyone to own a one to keep up with their job. They were disruptive enough on their own that people naturally found ways to build up an industry around them and make _billions_ of dollars. And now, most people in the modern world view these things as assets, regardless of how unsustainable they are.
 
 nation-states are similar in this way. The formula for a nation-state was perfected by the europeans, which kicked of centuries of colonization that ultimately, ended in what some might see as winner states and loser states. But, before that time, the norm was for communities and cities to govern themselves, or at the very least, as part of a smaller, more confederated unit.

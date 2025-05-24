@@ -32,7 +32,7 @@ more organized collections of personal wisdom are under
 - You don't have to force yourself to not sleep in. Just always think of sleeping in from the context if the things that are important
 - We give up greatness in deference to comfort
 - I’m too tired to sleep
-# #technology
+# #tech(nology)
 ## software
 - complexity is inversely proportional to number of lines of code
 ## the engineering mindset

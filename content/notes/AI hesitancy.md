@@ -5,6 +5,8 @@ tags:
   - essay
   - outline
 ---
+# AI Skepticism
+
 It’s the 1970s and a man in his mid-30s is the head of a successful cigarette company. You could argue he was born into it; his father was an executive with the company, and encouraged his passion for the trade when he was just a child. As he grew up, he showed promise as a salesman, and of course, he had a love for all things tobacco and smoking that was not rivaled. So, as a young man he began working for the company under his father and quickly demonstrated his ability to whip up an incredible marketing team. After the untimely death of his father, he took over the business, and and helped it scale it’s operations to a nationwide commodity. 
 
 One day, on a routine visit to the doctor, the doctor asks the man: “do you smoke”?
