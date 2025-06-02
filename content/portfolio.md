@@ -24,20 +24,18 @@ long-term, I’d like to build systems and infrastructure that demystify the inn
 
 my notes on these topics can be found at [this repo](https://github.com/jkru3/learning)
 
-**2025/05/13:** alot of these learning objectives are on hold rn to grind LeetCode for an upcoming interview (for a job where i might be able to use them)
-
 - [ ] [KodeKloud](https://kodekloud.com/learning-path/cloud-engineer/) courses (start with [DevOps](https://kodekloud.com/learning-path/devops-engineer) path and [Cloud](https://kodekloud.com/learning-path/cloud-engineer/) first)
-	- [x] Kubernetes
-	- [x] IaC
-	- [x] GitOps
-	- [x] Go
+	- [ ] Kubernetes
+	- [ ] IaC
+	- [ ] GitOps
+	- [ ] Go
 	- [ ] CI/CD
 	- [x] Docker
 	- [x] Shell Scripting
 	- [x] Linux/Unix admin
 ## Kubernetes
-- [ ] set up a local Kubernetes cluster, deploy stateless applications
-- [ ] implement stateful workloads, PersistentVolumes, and StorageClasses
+- [x] set up a local Kubernetes cluster, deploy stateless applications
+- [x] implement stateful workloads, PersistentVolumes, and StorageClasses
 - [ ] configure networking, ingress controllers, and create a demo project
 ## IaC - Terraform
 - [ ] build basic AWS infrastructure with Terraform (VPC, EC2, S3)

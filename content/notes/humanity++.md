@@ -22,6 +22,7 @@ this is the first step to overriding your natural dispositions, which are almost
 ## 2. learn how to take **agency**
 taking agency is crucial to staying in business and shaping your own values
 - give yourself hope. hope puts you at the doorway of opportunity so you can catch it when it comes in. Hope is inner strength. You can’t have agency without hope
+- always debrief and take failure-notes. This is when you are most capable of identifying weaknesses that must be improved
 - batch similar tasks and execute them production-line style whenever possible
 - figure out a calendar you will remember to use
 - [[Finding housing]]
