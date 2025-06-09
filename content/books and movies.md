@@ -22,6 +22,7 @@ tags:
 - The Time Travellers Wife
 # other
 - [Celestine Prophecy](https://en.wikipedia.org/wiki/The_Celestine_Prophecy)
+- The Creative Act: A Way of Being —Rick Rubin
 - Army survival manual
 - The design of everyday things
 - How buildings learn
@@ -64,6 +65,7 @@ tags:
 - Frederick the Great
 - Cyrus the great
 # want to watch — movies
+- [Detachment](https://www.youtube.com/watch?v=KjrsR2TueyA)
 - The Platform
 - Too big to fail
 - THX-1138
@@ -107,5 +109,6 @@ tags:
 - [Marco Pierre White](https://www.youtube.com/watch?v=U-xCIstDBaI)
 - [Dapper Dan](https://www.youtube.com/watch?v=NVTSupDuHig)
 - [DFW’s Commencement Speech](https://youtu.be/DCbGM4mqEVw?si=aykHuQn1qIKrUclt)
+- 
 ## podcasts
 - [Lex Friedman w/ Yuval Noah Harari](https://www.youtube.com/watch?v=Mde2q7GFCrw)

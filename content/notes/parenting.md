@@ -25,6 +25,10 @@ use material (tangible) richness like money and influence to buy into intangible
 	- only a community that offers it’s hand at mutual aid is capable of instilling the positive values in children. Otherwise, the job rests entirely on the parents, who are flawed
 ## school
 it is insane how millions of parents have allowed a school curriculums that persist that failing to teach important emotional-regulatory skills and survival skills. A [[new school curriculum]] is needed
+## work ethic
+the 'praise-trap': when kids do well at things, they should be praised for their efforts, not their talents. Kids who believe that their achievement is earn-able through hard work rather than innate are more likely to strive
+## investing
+kid's aren't expensive. Lifestyles are
 # the stages of life
 What do these 6 things look like at every stage of development? (infancy, toddler, young child, older child, preteen, teen, old teen, young adult)
 ## Pre-infancy

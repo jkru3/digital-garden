@@ -2,12 +2,6 @@
 title: welcome
 description: home page for Joey's digital garden
 ---
- > [!duck] open to work!
- > 
-> if you are a hiring manager, founder, or just a curious developer who has landed on this page, welcome to my personal website! 
-> 
-> you can check out my portfolio 👉 [[portfolio|here]] 👈 
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFjdDNqcGVlcXpzaGYxcnNvamFrbGVzODN2NHJ0cjM1ZzBwZW56YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IydFHF2WeTmVMBi/giphy.gif" style="width: 100%; height: 185px; object-fit: cover; object-position: center;">
 
 # welcome
@@ -16,13 +10,15 @@ hi, i’m [[about me|Joey]], and i’m a 29 year old developer based out of Wash
 
 engineers are at their best when they understand complexity in depth. Artists are at their best when the depth of their process defies understanding. But the same skills that make an engineer great can hinder the abilities of an artist, and vice versa
 
-i’ve setup this [digital garden](https://joelhooks.com/digital-garden/) as a generalist playground so i can learn to integrate both skillsets into my [[portfolio]]. I don’t write many technical notes here. But, this isn’t just a personal website or blog either. It’s more of a personal wiki of thoughts that i’m reflecting and refining upon from all the things i’ve experienced. You can learn more about how i’ve set this up [[how am i building this?|here]]
+one thing both vocations have in common is a rich inner world of thoughts. So, i’ve setup this [digital garden](https://joelhooks.com/digital-garden/) as a way to expose those thoughts to the outer world as i learn to integrate both skillsets. The most creative, prolific people i've met don't keep their energy bottled up inside of them
+
+while I don’t write many technical notes here, this isn’t just a personal website or a blog. Every article is a work in progress that i’m reflecting upon and refining (at least, while I'm alive). You can learn more about how i’ve set this up [[how am i building this?|here]]
 
 &nbsp; ![](Henry%20David%20Thoreau.avif#image__left)
 
 >*many go fishing all their lives without knowing that it is not fish they are after* —Henry David Thoreau
 
-i think of this as my proof of stake in the human experience. If all the heavy lifting is done by AI in the future, what else can we leave the world with?
+i also think of this as my proof of stake in the human experience. If all the heavy lifting is done by AI in the future, what else can we leave the world with?
 &nbsp; <br clear="all">
 
 ## navigation
@@ -34,9 +30,11 @@ the *recent notes* pane is the best way to see what I’m working on. Or you can
 
 ## work
 
-- TODO (✨🌈*funemployed*🌈✨)
-- previously worked two technical internships
-- was a restaurant server and bartender for 6 years
+- AI Infrastructure on the GKE team at Google
+- previously worked at a clean energy technology company
+- co-founded [Clearvote](https://clearvote.info)
+- i've worked as a restaurant server and bartender for 6 years
+- i've worked in a lumber mill, a medical equipment factory, and a grocery store
 - going way back… i used to lifeguard (I know CPR)
 - [resume](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf)
 
