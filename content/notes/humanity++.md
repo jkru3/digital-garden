@@ -59,6 +59,8 @@ taking agency is crucial to staying in business and shaping your own values
 	- make knowledge graphs
 ## 3. learn how to **survive**
 survival is the gift of continued living. But also, a person’s true character is revealed in survival situations. Knowing how to survive dangerous situations makes more likely to rise above your base instincts and shape your character
+- be aware of irreversible harms
+	- lymphatic system is plugged by dust, mold, and ink. These can never be removed from your system so it's important to wear masks in these kinds of environments and avoid getting hands covered with ink
 - be able to observe your breath at all times
 	- always breath in towards discomfort and breath out to relief
 	- this can be applied in stretching, lifting, running
@@ -84,6 +86,8 @@ survival is the gift of continued living. But also, a person’s true character 
 	- raising animals
 - threat modeling
 - understand [[everyday hazards]]
+- emotional regulation is important for more than just survival (but survival is one of them)
+	- when you give yourself space and reminders to breath deeply in practice (work, training, etc.), you will find it becomes automatic behavior. This is an important step to bringing awareness to situations that can help you perform better and regulate anger
 ## 4. learn how to **fight**
 fighting is an extension of survival, but one that enables you to go beyond and protect yourself against the most dangerous human encounters. In doing so, you are able to carry that confidence into all interactions where you must work with others
 - “the only solution for bad and violent people, are good people that are more skilled in violence”
@@ -157,6 +161,7 @@ in all relationships you will encounter people who can help you, people who can 
 	- 48 laws of power
 - asking for references and favors
 	- there is nothing wrong with getting close with someone as a means to an end, if you are upfront about that. It doesn’t matter if you are being transactional about it, or asking for free lunch. just keep your ask concise and to the point
+- flattery wastes time. Don't attend things that don't serve you. Be unreachable for trivial engagements
 ## 6. learn how to make and maintain healthy relationships (within your circle)
 treat your friends well. Building a community of people you care about will set you up for a lifetime of happiness
 - while certain people may influentially change how you behave and act, transformative change begins with you and ripples out to your close relationships, not the other way around

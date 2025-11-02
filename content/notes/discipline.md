@@ -7,13 +7,16 @@ discipline is the ability to control your own intensity (AKA: lock in). This isn
 
 there are 5 parts to that:
 - the **intelligence** to reason why you should care (nature)
-- the **willpower** to remain consistent (nature)
-- the **initiative** to engage in new routines (nature)
+- the **initiative** to try out new routines (nature)
+- the **willpower** to remain consistent (nature + nurture)
 - the **love** to sacrifice in spite of hardship (nurture)
 - the **perspective** to know what works with you and against you (nurture)
 
 ## willpower 
-willpower is a subset of discipline. It’s the engine of discipline, and discipline is the science of using willpower effectively
+- we get a maximum of 4 hours of sustained willpower throughout the day
+- willpower is the engine of discipline, and discipline is the science of using willpower effectively
+- willpower requires *directed attention*, a finite mental resource
+
 
 # improving discipline
 2. Emotionally regulate regularly

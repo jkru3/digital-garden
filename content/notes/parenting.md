@@ -5,6 +5,8 @@ tags:
   - outline
 ---
 [[disciplined people]] come from disciplined parents (and [[disciplined people]] progress human consciousness). Good parents bless their children the qualities of [[love]] and [[perspective]], which are, in my view, the two nurtured qualities of discipline (they also teach them to protect themselves from [[everyday hazards]])
+
+TODO: try to imagine every possible scenario of something a child, teen, etc. could do or say and how to react to it in the moment
 ## patience
 - parents are more successful when they try to truly understand why their children don't want to do something and then take the time to explain to them the benefits of the activity.
 ## Santa Klaus and the Tooth Fairy
@@ -15,6 +17,10 @@ tags:
 ## love of life
 - take kids on rides. Carry them, hike with them, go on bike rides, etc.
 ## finding the right place to live
+requirements:
+1. close to school
+2. a GOOD school
+3. outside of a suburban structure (and in a natural one)
 use material (tangible) richness like money and influence to buy into intangible richness (community, space, peacefulness).
 - near an elementary school (preferably private)
 	- **young children must be able to walk to school**
