@@ -1,9 +1,18 @@
 ---
 description: Joey's engineering background
 ---
-my aim is to build systems and infrastructure that can demystify the inner workings of the black box for ML models (**MLOps**). To the uninitiated, there is a perception that AI is a field reserved to pHd holders and the mathematical elite. I hope to contribute in shattering that illusion
 
 **note:** my professional experience are deliberately excluded from this portfolio. This is a show case of my extracurricular learning and projects. If you want to know more about my work history, you can check out my LinkedIn or view my resume [here](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf)
+
+# 2027
+&nbsp;
+- [ ] TBD
+
+---
+
+# 2026
+&nbsp; 
+- [ ] finish Kubernetes in Action
 
 ---
 
@@ -14,65 +23,34 @@ my aim is to build systems and infrastructure that can demystify the inner worki
 
 my notes on these topics can be found at [this repo](https://github.com/jkru3/learning)
 
-- [ ] notes on system design
-- [ ] [KodeKloud](https://kodekloud.com/learning-path/cloud-engineer/) courses (start with [DevOps](https://kodekloud.com/learning-path/devops-engineer) path and [Cloud](https://kodekloud.com/learning-path/cloud-engineer/) first)
+- [x] notes on system design
+- [x] [KodeKloud](https://kodekloud.com/learning-path/cloud-engineer/) courses (start with [DevOps](https://kodekloud.com/learning-path/devops-engineer) path and [Cloud](https://kodekloud.com/learning-path/cloud-engineer/) first)
 	- [x] Kubernetes
-	- [ ] GitOps
-	- [ ] Go
-	- [ ] CI/CD
-	- [ ] Docker
-	- [ ] Shell Scripting
-	- [ ] Linux/Unix admin
+	- [x] GitOps
+	- [x] Go
+	- [x] CI/CD
+	- [x] Docker
+	- [x] Shell Scripting
+	- [x] Linux/Unix admin
 ## MLOps
-- [ ] [ML System Design Patterns](https://github.com/mercari/ml-system-design-pattern)
+- [x] [ML System Design Patterns](https://github.com/mercari/ml-system-design-pattern)
 ## Kubernetes
 - [x] set up a local Kubernetes cluster, deploy stateless applications
 - [x] implement stateful workloads, PersistentVolumes, and StorageClasses
-- [ ] configure networking, ingress controllers, and create a demo project
-## GitOps
-- [ ]  set up a local ArgoCD instance with minikube, deploy sample application
-- [ ]  implement GitOps workflow for a personal project
-- [ ]  build a CI/CD pipeline that integrates with your GitOps workflow
+- [x] configure networking, ingress controllers, and create a demo project
 ## Go
-- [ ]  build CLI tools with Go standard library
-- [ ]  learn Go concurrency patterns (goroutines, channels)
-- [ ]  build a DevOps utility tool in Go
+- [x]  build CLI tools with Go standard library
+- [x]  learn Go concurrency patterns (goroutines, channels)
+- [x]  build a DevOps utility tool in Go
 ## Monitoring with Prometheus/Grafana
-- [ ]  set up Prometheus locally, understand core concepts, implement basic exporters
-- [ ]  set up Grafana dashboards with Prometheus and implement basic alerting
-%% ## OpenTelemetry
-- [ ]  learn observability concepts, implement basic traces in a sample application
-- [ ]  integrate with backend systems (Jaeger, Prometheus) %%
-%% ## IaC - Terraform
-- [ ] build basic AWS infrastructure with Terraform (VPC, EC2, S3)
-- [ ] then deploy with CDK: deploy a Lambda + API Gateway. compare both. write notes/blog on tradeoffs
-- [ ] implement Terraform modules and state management best practices
-- [ ] create a complete a demo infrastructure project %%
-%% ## Linux/Unix Administration
-- [ ]  complete Linux fundamentals course, focus on system administration
-- [ ]  create automated bash scripts for common DevOps tasks %%
-%% ## basic cloud-native platform (not sure what the best project for this is yet)
-- [ ]  integrate Kubernetes + Terraform + GitOps workflow
-- [ ]  add monitoring with Prometheus/Grafana
-- [ ]  document the architecture and deployment process %%
-%% ## final proj (again, not sure what to do yet)
-- [ ]  build comprehensive DevOps platform combining all technologies
-- [ ]  implement a Go microservice with full observability
-- [ ]  create infrastructure as code with proper GitOps workflow
-- [ ]  add monitoring dashboards and alerting
-- [ ]  document with architecture diagrams and runbooks
-- [ ]  present as a portfolio piece %%
-%% ## misc.
-- [ ] look into CKA (Certified Kubernetes Administrator)
-- [ ] look into HashiCorp Certified: Terraform Associate
-- [ ] look into AWS Certified Solutions Architect Associate %%
-
-
-%% /## videos
+- [x]  set up Prometheus locally, understand core concepts, implement basic exporters
+- [x]  set up Grafana dashboards with Prometheus and implement basic alerting
+%%
 - [ ] [Martin Fowler](https://www.youtube.com/watch?v=5NcRYhpjgfA)
 - [ ] [making open source contributions](https://www.youtube.com/watch?app=desktop&v=uQLNFRviB6Q) also [this](https://www.youtube.com/watch?v=5nY_cy8zcO4)
 - [ ] llm youtube video
 - [ ] [swe advice](https://www.youtube.com/watch?v=BCYlUmzMmyc)
+%%
 # *anytime* study
 ### Kubernetes
 - [Certified Kubernetes Administrator](https://github.com/cncf/curriculum)

@@ -46,3 +46,6 @@
 - [[temporary neighbors.md]]
 - [[good communication.md]]
 - [[Untitled.canvas]]
+# other ideas (will need to reincorporate these in my existing writings)
+ - "repression just results in more irresponsible indulgence"
+- "in america, you are either a test subject or a scientist, and we import a lot of scientists"

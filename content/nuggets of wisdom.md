@@ -10,7 +10,7 @@ more organized collections of personal wisdom are under
 %% - [[life lessons]] %%
 
 # other wise words
-- narcissism has no gender — Minori
+%%- narcissism has no gender — Minori%%
 - tolerance is just deferred hatred
 - weak messages create bad situations — David Shrigley
 - if you see the same tree twice in a forest, it means you are lost

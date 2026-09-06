@@ -6,7 +6,7 @@ description: home page for Joey's digital garden
 
 # welcome
 
-hi, i’m [[about me|Joey]], and i’m a 29 year old developer based out of Washington State, USA
+hi, i’m [[about me|Joey]], and i’m a 31 year old developer based out of Washington State, USA
 
 engineers are at their best when they understand complexity in depth. Artists are at their best when the depth of their process defies understanding. But the same skills that make an engineer great can hinder the abilities of an artist, and vice versa
 
